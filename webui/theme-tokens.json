@@ -1,0 +1,218 @@
+{
+  "colorText": [
+    "rgba(255,255,255,0.9)",
+    "#27254C"
+  ],
+  "colorTextSecondary": [
+    "rgba(255,255,255,0.6)",
+    "#7C7A99"
+  ],
+  "colorTextTertiary": [
+    "rgba(255,255,255,0.45)",
+    "rgba(124,122,153,0.6)"
+  ],
+  "colorTextQuaternary": [
+    "rgba(255,255,255,0.4)",
+    "rgba(124,122,153,0.5)"
+  ],
+  "colorTextDisabled": [
+    "rgba(255,255,255,0.25)",
+    "rgba(124,122,153,0.3)"
+  ],
+  "colorTextWhite": [
+    "#FFFFFF",
+    "#FFFFFF"
+  ],
+  "colorTextBlack": [
+    "#000000",
+    "#000000"
+  ],
+  "colorTextWatermark": [
+    "rgba(255,255,255,0.08)",
+    "rgba(0,0,0,0.05)"
+  ],
+  "colorTextWatermarkSecurity": [
+    "rgba(255, 68, 0, 0.2)",
+    "rgba(255, 68, 0, 0.2)"
+  ],
+  "colorInfoText": [
+    "#624AFF",
+    "#624AFF"
+  ],
+  "colorInfoTextHover": [
+    "#624AFF",
+    "#533FD9"
+  ],
+  "colorInfoTextPress": [
+    "#533FD9",
+    "#4534B2"
+  ],
+  "colorInfoTextActive": [
+    "#624AFF",
+    "#624AFF"
+  ],
+  "colorBgLayout": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "colorBgElevated": [
+    "#1A1A1A",
+    "#F7F9FD"
+  ],
+  "colorBgContainer": [
+    "#262626",
+    "#FFFFFF"
+  ],
+  "colorBgSpotlight": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "colorBgVideoPlayer": [
+    "#1A1A1A",
+    "#1A1A1A"
+  ],
+  "colorBgHeader": [
+    "rgba(0,0,0,0.8)",
+    "rgba(255,255,255,0.9)"
+  ],
+  "colorBgMask": [
+    "rgba(0,0,0,0.8)",
+    "rgba(255,255,255,0.8)"
+  ],
+  "colorTagMask": [
+    "rgba(0,0,0,0.8)",
+    "rgba(0,0,0,0.8)"
+  ],
+  "colorRadioBTNMask": [
+    "rgba(38,38,38,0.1)",
+    "rgba(255,255,255,0.1)"
+  ],
+  "colorBgBlur": [
+    "rgba(0,0,0,0.1)",
+    "rgba(255,255,255,0.1)"
+  ],
+  "colorBgSolid": [
+    "#624AFF",
+    "#624AFF"
+  ],
+  "colorBgSolidHover": [
+    "#533FD9",
+    "#533FD9"
+  ],
+  "colorBgSolidPress": [
+    "#4534B2",
+    "#4534B2"
+  ],
+  "colorBgSolidActive": [
+    "#624AFF",
+    "#624AFF"
+  ],
+  "colorInfoBg": [
+    "#181240",
+    "#F6F5FF"
+  ],
+  "colorInfoBgHover": [
+    "#221A59",
+    "#E9E5FF"
+  ],
+  "colorInfoBgPress": [
+    "#181240",
+    "#DCD6FF"
+  ],
+  "colorInfoBgActive": [
+    "#181240",
+    "#F6F5FF"
+  ],
+  "colorBgBlurBtn": [
+    "rgba(0,0,0,0.3)",
+    "rgba(0,0,0,0.3)"
+  ],
+  "colorBgBlurBtnHover": [
+    "rgba(0,0,0,0.4)",
+    "rgba(0,0,0,0.4)"
+  ],
+  "colorBgBlurBtnPress": [
+    "rgba(0,0,0,0.5)",
+    "rgba(0,0,0,0.5)"
+  ],
+  "colorBgBlurBtnActive": [
+    "rgba(0,0,0,0.3)",
+    "rgba(0,0,0,0.3)"
+  ],
+  "colorBorder": [
+    "rgba(255,255,255,0.2)",
+    "#DAD9E6"
+  ],
+  "colorBorderSecondary": [
+    "rgba(255,255,255,0.1)",
+    "#E1E0E7"
+  ],
+  "colorBorderTertiary": [
+    "rgba(255,255,255,0.06)",
+    "#E8E7EB"
+  ],
+  "colorBorderWhite": [
+    "#FFFFFF",
+    "#FFFFFF"
+  ],
+  "colorBorderWB": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "colorBorderBW": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "colorOmniBorderStart": [
+    "#A970FF",
+    "#FFBB98"
+  ],
+  "colorOmniBorderMid": [
+    "#7646FA",
+    "#C55AFA"
+  ],
+  "colorOmniBorderEnd": [
+    "#4760FF",
+    "#624AFF"
+  ],
+  "colorOmniTabBorder": [
+    "#5D5CFF",
+    "#5D5CFF"
+  ],
+  "colorOmniTabActiveGlow": [
+    "rgba(106,63,224,0.7)",
+    "rgba(106,63,224,0.7)"
+  ],
+  "colorOmniTint": [
+    "rgba(52,86,255,0.1)",
+    "rgba(52,86,255,0.06)"
+  ],
+  "colorOmniGlowStart": [
+    "rgba(71,71,255,0.14)",
+    "rgba(98,74,255,0.06)"
+  ],
+  "colorOmniGlowMid": [
+    "rgba(127,63,224,0.21)",
+    "rgba(246,128,238,0.11)"
+  ],
+  "colorOmniGlowEnd": [
+    "rgba(0,0,0,0.7)",
+    "rgba(255,255,255,0.7)"
+  ],
+  "colorOmniVeil": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "boxShadow": [
+    "rgba(0,0,0,0.5)",
+    "rgba(39,37,76,0.12)"
+  ],
+  "boxShadowSecondary": [
+    "rgba(0,0,0,0.3)",
+    "rgba(39,37,76,0.1)"
+  ],
+  "boxShadowTertiary": [
+    "rgba(0,0,0,0.2)",
+    "rgba(39,37,76,0.08)"
+  ]
+}

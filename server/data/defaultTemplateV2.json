@@ -1,0 +1,3290 @@
+{
+  "Code": 200,
+  "Data": {
+    "code": 0,
+    "data": {
+      "AUDIO": {
+        "promptTags": [
+          {
+            "category": "style",
+            "displayName": "风格",
+            "displayNameEn": "Style",
+            "tagList": [
+              {
+                "chineseName": "Funk",
+                "name": "Funk",
+                "tagKey": "music-style-funk"
+              },
+              {
+                "chineseName": "民谣",
+                "name": "Folk",
+                "tagKey": "music-style-folk"
+              },
+              {
+                "chineseName": "情歌",
+                "name": "Love Song",
+                "tagKey": "music-style-love-song"
+              },
+              {
+                "chineseName": "流行",
+                "name": "Pop",
+                "tagKey": "music-style-pop"
+              },
+              {
+                "chineseName": "布鲁斯",
+                "name": "Blues",
+                "tagKey": "music-style-blues"
+              },
+              {
+                "chineseName": "爵士",
+                "name": "Jazz",
+                "tagKey": "music-style-jazz"
+              },
+              {
+                "chineseName": "灵魂",
+                "name": "Soul",
+                "tagKey": "music-style-soul"
+              },
+              {
+                "chineseName": "r&b",
+                "name": "r&b",
+                "tagKey": "music-style-rnb"
+              },
+              {
+                "chineseName": "乡村",
+                "name": "Country",
+                "tagKey": "music-style-country"
+              },
+              {
+                "chineseName": "摇滚",
+                "name": "Rock",
+                "tagKey": "music-style-rock"
+              },
+              {
+                "chineseName": "日系",
+                "name": "Japanese-style",
+                "tagKey": "music-style-japanese-style"
+              },
+              {
+                "chineseName": "拉美",
+                "name": "Latin American",
+                "tagKey": "music-style-latin-american"
+              },
+              {
+                "chineseName": "西部",
+                "name": "Western",
+                "tagKey": "music-style-western"
+              },
+              {
+                "chineseName": "雷鬼",
+                "name": "Reggae",
+                "tagKey": "music-style-reggae"
+              },
+              {
+                "chineseName": "拉丁",
+                "name": "Latin",
+                "tagKey": "music-style-latin"
+              },
+              {
+                "chineseName": "西部荒野",
+                "name": "Wild West",
+                "tagKey": "music-style-wild-west"
+              },
+              {
+                "chineseName": "嘻哈",
+                "name": "Hip-Hop",
+                "tagKey": "music-style-hip-hop"
+              },
+              {
+                "chineseName": "kpop",
+                "name": "kpop",
+                "tagKey": "music-style-kpop"
+              },
+              {
+                "chineseName": "电音",
+                "name": "Electronic",
+                "tagKey": "music-style-electronic"
+              },
+              {
+                "chineseName": "disco",
+                "name": "disco",
+                "tagKey": "music-style-disco"
+              },
+              {
+                "chineseName": "afro",
+                "name": "afro",
+                "tagKey": "music-style-afro"
+              },
+              {
+                "chineseName": "trap",
+                "name": "trap",
+                "tagKey": "music-style-trap"
+              },
+              {
+                "chineseName": "电影",
+                "name": "Film Score",
+                "tagKey": "music-style-film-score"
+              },
+              {
+                "chineseName": "福音",
+                "name": "Gospel",
+                "tagKey": "music-style-gospel"
+              },
+              {
+                "chineseName": "合唱",
+                "name": "Choir",
+                "tagKey": "music-style-choir"
+              },
+              {
+                "chineseName": "歌剧",
+                "name": "Opera",
+                "tagKey": "music-style-opera"
+              },
+              {
+                "chineseName": "民族",
+                "name": "Ethnic",
+                "tagKey": "music-style-ethnic"
+              },
+              {
+                "chineseName": "lo-fi",
+                "name": "lo-fi",
+                "tagKey": "music-style-lo-fi"
+              },
+              {
+                "chineseName": "儿歌",
+                "name": "Children's Song",
+                "tagKey": "music-style-childrens-song"
+              }
+            ],
+            "tags": [
+              "Funk",
+              "民谣",
+              "情歌",
+              "流行",
+              "布鲁斯",
+              "爵士",
+              "灵魂",
+              "R&B",
+              "乡村",
+              "摇滚",
+              "日系",
+              "拉美",
+              "西部",
+              "雷鬼",
+              "拉丁",
+              "西部荒野",
+              "嘻哈",
+              "K-Pop",
+              "电音",
+              "Disco",
+              "Afro",
+              "Trap",
+              "电影",
+              "福音",
+              "合唱",
+              "歌剧",
+              "民族",
+              "Lo-Fi",
+              "儿歌"
+            ],
+            "tagsEn": [
+              "Funk",
+              "Folk",
+              "Love Song",
+              "Pop",
+              "Blues",
+              "Jazz",
+              "Soul",
+              "R&B",
+              "Country",
+              "Rock",
+              "Japanese",
+              "Latin American",
+              "Western",
+              "Reggae",
+              "Latin",
+              "Wild West",
+              "Hip-Hop",
+              "K-Pop",
+              "Electronic",
+              "Disco",
+              "Afro",
+              "Trap",
+              "Cinematic",
+              "Gospel",
+              "Choir",
+              "Opera",
+              "Ethnic",
+              "Lo-Fi",
+              "Children's Music"
+            ]
+          },
+          {
+            "category": "timbre",
+            "displayName": "音色",
+            "displayNameEn": "Timbre",
+            "tagList": [
+              {
+                "chineseName": "明亮",
+                "name": "Bright",
+                "tagKey": "music-timbre-bright"
+              },
+              {
+                "chineseName": "温暖",
+                "name": "Warm",
+                "tagKey": "music-timbre-warm"
+              },
+              {
+                "chineseName": "干净",
+                "name": "Clean",
+                "tagKey": "music-timbre-clean"
+              },
+              {
+                "chineseName": "洪亮",
+                "name": "Resonant",
+                "tagKey": "music-timbre-resonant"
+              },
+              {
+                "chineseName": "尖锐",
+                "name": "Sharp",
+                "tagKey": "music-timbre-sharp"
+              },
+              {
+                "chineseName": "鼻音",
+                "name": "Nasal",
+                "tagKey": "music-timbre-nasal"
+              },
+              {
+                "chineseName": "气声",
+                "name": "Airy",
+                "tagKey": "music-timbre-airy"
+              },
+              {
+                "chineseName": "厚实",
+                "name": "Thick",
+                "tagKey": "music-timbre-thick"
+              },
+              {
+                "chineseName": "金属",
+                "name": "Metallic",
+                "tagKey": "music-timbre-metallic"
+              },
+              {
+                "chineseName": "沙哑",
+                "name": "Hoarse",
+                "tagKey": "music-timbre-hoarse"
+              },
+              {
+                "chineseName": "烟嗓",
+                "name": "Smoky",
+                "tagKey": "music-timbre-smoky"
+              },
+              {
+                "chineseName": "清脆",
+                "name": "Crisp",
+                "tagKey": "music-timbre-crisp"
+              }
+            ],
+            "tags": [
+              "明亮",
+              "温暖",
+              "干净",
+              "洪亮",
+              "尖锐",
+              "鼻音",
+              "气声",
+              "厚实",
+              "金属",
+              "沙哑",
+              "烟嗓",
+              "清脆"
+            ],
+            "tagsEn": [
+              "Bright",
+              "Warm",
+              "Clean",
+              "Powerful",
+              "Sharp",
+              "Nasal",
+              "Breathy",
+              "Full-bodied",
+              "Metallic",
+              "Raspy",
+              "Smoky",
+              "Crisp"
+            ]
+          },
+          {
+            "category": "range",
+            "displayName": "音域",
+            "displayNameEn": "Vocal Range",
+            "tagList": [
+              {
+                "chineseName": "男低音",
+                "name": "Bass",
+                "tagKey": "music-range-bass"
+              },
+              {
+                "chineseName": "男中音",
+                "name": "Baritone",
+                "tagKey": "music-range-baritone"
+              },
+              {
+                "chineseName": "男高音",
+                "name": "Tenor",
+                "tagKey": "music-range-tenor"
+              },
+              {
+                "chineseName": "女低音",
+                "name": "Contralto",
+                "tagKey": "music-range-contralto"
+              },
+              {
+                "chineseName": "女中音",
+                "name": "Mezzo-soprano",
+                "tagKey": "music-range-mezzo-soprano"
+              },
+              {
+                "chineseName": "女高音",
+                "name": "Soprano",
+                "tagKey": "music-range-soprano"
+              }
+            ],
+            "tags": [
+              "男低音",
+              "男中音",
+              "男高音",
+              "女低音",
+              "女中音",
+              "女高音"
+            ],
+            "tagsEn": [
+              "Bass",
+              "Baritone",
+              "Tenor",
+              "Contralto",
+              "Mezzo-soprano",
+              "Soprano"
+            ]
+          },
+          {
+            "category": "gender",
+            "displayName": "性别",
+            "displayNameEn": "Vocal Type",
+            "tagList": [
+              {
+                "chineseName": "女声",
+                "name": "Female Voice",
+                "tagKey": "music-gender-female-voice"
+              },
+              {
+                "chineseName": "男声",
+                "name": "Male Voice",
+                "tagKey": "music-gender-male-voice"
+              },
+              {
+                "chineseName": "类女声",
+                "name": "Female-like Voice",
+                "tagKey": "music-gender-female-like-voice"
+              },
+              {
+                "chineseName": "类男声",
+                "name": "Male-like Voice",
+                "tagKey": "music-gender-male-like-voice"
+              },
+              {
+                "chineseName": "男女合唱",
+                "name": "Male & Female Vocals",
+                "tagKey": "music-style-male-female-vocals"
+              },
+              {
+                "chineseName": "其他",
+                "name": "Other",
+                "tagKey": "music-gender-other"
+              }
+            ],
+            "tags": [
+              "女声",
+              "男声",
+              "类女声",
+              "类男声",
+              "男女合唱",
+              "其他"
+            ],
+            "tagsEn": [
+              "Female Vocal",
+              "Male Vocal",
+              "Feminine Vocal",
+              "Masculine Vocal",
+              "Male & Female Vocals",
+              "Other"
+            ]
+          }
+        ],
+        "recommendTags": [
+          "流行",
+          "爵士",
+          "灵魂",
+          "R&B",
+          "雷鬼",
+          "摇滚",
+          "乡村"
+        ],
+        "recommendTagsEn": [
+          "Pop",
+          "Jazz",
+          "Soul",
+          "R&B",
+          "Reggae",
+          "Rock",
+          "Country"
+        ],
+        "supportSDVersionList": [
+          {
+            "allowed": {
+              "keyScales": [
+                "C major",
+                "C# major",
+                "D major",
+                "D# major",
+                "E major",
+                "F major",
+                "F# major",
+                "G major",
+                "G# major",
+                "A major",
+                "A# major",
+                "B major",
+                "C minor",
+                "C# minor",
+                "D minor",
+                "D# minor",
+                "E minor",
+                "F minor",
+                "F# minor",
+                "G minor",
+                "G# minor",
+                "A minor",
+                "A# minor",
+                "B minor",
+                "N/A"
+              ],
+              "sampleRates": [
+                44100,
+                48000
+              ],
+              "timeSignatures": [
+                "2",
+                "3",
+                "4",
+                "6",
+                "N/A"
+              ],
+              "vocalLanguages": [
+                "ar",
+                "az",
+                "bg",
+                "bn",
+                "ca",
+                "cs",
+                "da",
+                "de",
+                "el",
+                "en",
+                "es",
+                "fa",
+                "fi",
+                "fr",
+                "he",
+                "hi",
+                "hr",
+                "ht",
+                "hu",
+                "id",
+                "is",
+                "it",
+                "ja",
+                "ko",
+                "la",
+                "lt",
+                "ms",
+                "ne",
+                "nl",
+                "no",
+                "pa",
+                "pl",
+                "pt",
+                "ro",
+                "ru",
+                "sa",
+                "sk",
+                "sr",
+                "sv",
+                "sw",
+                "ta",
+                "te",
+                "th",
+                "tl",
+                "tr",
+                "uk",
+                "ur",
+                "vi",
+                "yue",
+                "zh",
+                "unknown"
+              ]
+            },
+            "controlnet_disable": false,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "audioCount": 1,
+                "bpm": 128,
+                "cfgScale": 4,
+                "duration": 160,
+                "keyScale": "N/A",
+                "numInferenceSteps": 50,
+                "sampleRate": 48000,
+                "seed": -1,
+                "timeSignature": "N/A",
+                "vocalLanguage": "unknown"
+              }
+            },
+            "label": "Ace-Step",
+            "limits": {
+              "audioCount": {
+                "max": 4,
+                "min": 1
+              },
+              "bpm": {
+                "max": 300,
+                "min": 30
+              },
+              "cfgScale": {
+                "max": 10,
+                "min": 1
+              },
+              "duration": {
+                "max": 600,
+                "min": 1
+              },
+              "lyricsMaxLength": 4000,
+              "numInferenceSteps": {
+                "max": 100,
+                "min": 32
+              },
+              "promptMaxLength": 4000,
+              "seed": {
+                "max": 2147483647,
+                "min": -1
+              }
+            },
+            "modelUrl": "modelscope://ACE-Step/acestep-v15-xl-sft?revision=master",
+            "model_id": {
+              "ChineseName": "acestep-v15-xl-sft",
+              "Description": "",
+              "Name": "acestep-v15-xl-sft",
+              "path": "ACE-Step/acestep-v15-xl-sft",
+              "type": "model"
+            },
+            "sub_label": "Acestep-Xl-Sft",
+            "sub_value": "ACESTEP_XL_SFT",
+            "trainable": true,
+            "value": "ACESTEP_XL",
+            "versionId": 141218
+          },
+          {
+            "allowed": {
+              "keyScales": [
+                "C major",
+                "C# major",
+                "D major",
+                "D# major",
+                "E major",
+                "F major",
+                "F# major",
+                "G major",
+                "G# major",
+                "A major",
+                "A# major",
+                "B major",
+                "C minor",
+                "C# minor",
+                "D minor",
+                "D# minor",
+                "E minor",
+                "F minor",
+                "F# minor",
+                "G minor",
+                "G# minor",
+                "A minor",
+                "A# minor",
+                "B minor",
+                "N/A"
+              ],
+              "sampleRates": [
+                44100,
+                48000
+              ],
+              "timeSignatures": [
+                "2",
+                "3",
+                "4",
+                "6",
+                "N/A"
+              ],
+              "vocalLanguages": [
+                "ar",
+                "az",
+                "bg",
+                "bn",
+                "ca",
+                "cs",
+                "da",
+                "de",
+                "el",
+                "en",
+                "es",
+                "fa",
+                "fi",
+                "fr",
+                "he",
+                "hi",
+                "hr",
+                "ht",
+                "hu",
+                "id",
+                "is",
+                "it",
+                "ja",
+                "ko",
+                "la",
+                "lt",
+                "ms",
+                "ne",
+                "nl",
+                "no",
+                "pa",
+                "pl",
+                "pt",
+                "ro",
+                "ru",
+                "sa",
+                "sk",
+                "sr",
+                "sv",
+                "sw",
+                "ta",
+                "te",
+                "th",
+                "tl",
+                "tr",
+                "uk",
+                "ur",
+                "vi",
+                "yue",
+                "zh",
+                "unknown"
+              ]
+            },
+            "controlnet_disable": false,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "audioCount": 1,
+                "bpm": 128,
+                "cfgScale": 1,
+                "duration": 160,
+                "keyScale": "N/A",
+                "numInferenceSteps": 8,
+                "sampleRate": 48000,
+                "seed": -1,
+                "timeSignature": "N/A",
+                "vocalLanguage": "unknown"
+              }
+            },
+            "label": "Ace-Step",
+            "limits": {
+              "audioCount": {
+                "max": 4,
+                "min": 1
+              },
+              "bpm": {
+                "max": 300,
+                "min": 30
+              },
+              "cfgScale": {
+                "max": 10,
+                "min": 1
+              },
+              "duration": {
+                "max": 600,
+                "min": 1
+              },
+              "lyricsMaxLength": 4000,
+              "numInferenceSteps": {
+                "max": 100,
+                "min": 1
+              },
+              "promptMaxLength": 4000,
+              "seed": {
+                "max": 2147483647,
+                "min": -1
+              }
+            },
+            "modelUrl": "modelscope://ACE-Step/acestep-v15-xl-turbo?revision=master",
+            "model_id": {
+              "ChineseName": "acestep-v15-xl-turbo",
+              "Description": "",
+              "Name": "acestep-v15-xl-turbo",
+              "path": "ACE-Step/acestep-v15-xl-turbo",
+              "type": "model"
+            },
+            "sub_label": "Acestep-Xl-Turbo",
+            "sub_value": "ACESTEP_XL_TURBO",
+            "trainable": true,
+            "value": "ACESTEP_XL",
+            "versionId": 141217
+          },
+          {
+            "allowed": {
+              "sampleRates": [
+                44100,
+                48000
+              ],
+              "vocalLanguages": [
+                "ar",
+                "az",
+                "bg",
+                "bn",
+                "ca",
+                "cs",
+                "da",
+                "de",
+                "el",
+                "en",
+                "es",
+                "fa",
+                "fi",
+                "fr",
+                "he",
+                "hi",
+                "hr",
+                "ht",
+                "hu",
+                "id",
+                "is",
+                "it",
+                "ja",
+                "ko",
+                "la",
+                "lt",
+                "ms",
+                "ne",
+                "nl",
+                "no",
+                "pa",
+                "pl",
+                "pt",
+                "ro",
+                "ru",
+                "sa",
+                "sk",
+                "sr",
+                "sv",
+                "sw",
+                "ta",
+                "te",
+                "th",
+                "tl",
+                "tr",
+                "uk",
+                "ur",
+                "vi",
+                "yue",
+                "zh",
+                "unknown"
+              ]
+            },
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "audioCount": 1,
+                "cfgScale": 1.7,
+                "numInferenceSteps": 40,
+                "sampleRate": 48000,
+                "seed": -1
+              }
+            },
+            "label": "MiniMax-Music3",
+            "limits": {
+              "audioCount": {
+                "max": 4,
+                "min": 1
+              },
+              "cfgScale": {
+                "max": 10,
+                "min": 1
+              },
+              "lyricsMaxLength": 4000,
+              "numInferenceSteps": {
+                "max": 50,
+                "min": 30
+              },
+              "promptMaxLength": 4000,
+              "seed": {
+                "max": 2147483647,
+                "min": -1
+              }
+            },
+            "modelUrl": "modelscope://MiniMax/MiniMax-Music3?revision=master",
+            "model_id": {
+              "ChineseName": "MiniMax-Music3",
+              "Description": "",
+              "Name": "MiniMax-Music3",
+              "path": "MiniMax/MiniMax-Music3",
+              "type": "model"
+            },
+            "sub_label": "MiniMax-Music3",
+            "sub_value": "MINIMAX_MUSIC3",
+            "trainable": false,
+            "value": "MINIMAX_MUSIC3",
+            "versionId": 166195
+          }
+        ]
+      },
+      "IMAGE": {
+        "defaultRequest": {
+          "adetailerArgs": {
+            "adDenoisingStrength": 0.4,
+            "adModel": "face_yolov8n.pt"
+          },
+          "basicDiffusionArgs": {
+            "guidanceScale": 4,
+            "height": 1472,
+            "numImagesPerPrompt": 1,
+            "numInferenceSteps": 30,
+            "sampler": "Euler",
+            "seed": -1,
+            "width": 1104
+          },
+          "hiresFixFrontArgs": {
+            "modelName": "RealESRGAN_x4plus",
+            "scale": 2
+          },
+          "imageInputFrontArgs": {
+            "strength": 0.7
+          },
+          "promptArgs": {
+            "negativePrompt": "",
+            "prompt": ""
+          }
+        },
+        "defaultSdVersion": "Z_IMAGE",
+        "defaultSdVersions": {
+          "IMG_2_VIDEO": "WAN_VIDEO_2_2_I2V_A_14_B",
+          "TXT_2_VIDEO": "WAN_VIDEO_2_2_T2V_A_14_B"
+        },
+        "fluxHighResModelUrl": [
+          "modelscope://MusePublic/flux-high-res?revision=v2"
+        ],
+        "fluxKontextModelUrl": [
+          "modelscope://MusePublic/FLUX.1-Kontext-Dev?revision=v1"
+        ],
+        "qwenImageEditModelUrl": [
+          "modelscope://MusePublic/Qwen-Image-Edit?revision=v1",
+          "modelscope://Qwen/Qwen-Image-Edit-2509?revision=master",
+          "modelscope://Qwen/Qwen-Image-Edit-2511?revision=master",
+          "modelscope://FireRedTeam/FireRed-Image-Edit-1.1?revision=master",
+          "modelscope://HiDream-ai/HiDream-O1-Image?revision=master",
+          "modelscope://Qwen/Qwen-Image-2.1?revision=master",
+          "modelscope://Qwen/Qwen-Image-2.1-Turbo?revision=master"
+        ],
+        "selectiveFieldsCandidates": {
+          "supportAdetailerFaceModelList": [
+            {
+              "label": "face_yolov8n.pt",
+              "value": "face_yolov8n.pt"
+            },
+            {
+              "label": "face_yolov8s.pt",
+              "value": "face_yolov8s.pt"
+            }
+          ],
+          "supportAdetailerHandModelList": [
+            {
+              "label": "hand_yolov8n.pt",
+              "value": "hand_yolov8n.pt"
+            },
+            {
+              "label": "hand_yolov8s.pt",
+              "value": "hand_yolov8s.pt"
+            }
+          ],
+          "supportAdetailerPersonModelList": [
+            {
+              "label": "person_yolov8n-seg.pt",
+              "value": "person_yolov8n-seg.pt"
+            },
+            {
+              "label": "person_yolov8s-seg.pt",
+              "value": "person_yolov8s-seg.pt"
+            },
+            {
+              "label": "deepfashion2_yolov8s-seg.pt",
+              "value": "deepfashion2_yolov8s-seg.pt"
+            }
+          ],
+          "supportHiresFixModelList": [
+            {
+              "label": "RealESRGAN x4plus",
+              "scale": 4,
+              "value": "RealESRGAN_x4plus"
+            },
+            {
+              "label": "RealESRNet x4plus",
+              "scale": 4,
+              "value": "RealESRNet_x4plus"
+            },
+            {
+              "label": "RealESRGAN x2plus",
+              "scale": 2,
+              "value": "RealESRGAN_x2plus"
+            },
+            {
+              "label": "RealESRGAN Anime 6B",
+              "scale": 4,
+              "value": "RealESRGAN_x4plus_anime_6B"
+            },
+            {
+              "label": "RealESR AnimeVideo v3",
+              "scale": 4,
+              "value": "realesr-animevideov3"
+            },
+            {
+              "label": "RealESR General x4 v3",
+              "scale": 4,
+              "value": "realesr-general-x4v3"
+            }
+          ]
+        },
+        "supportSDVersionList": [
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 4,
+                "height": 1472,
+                "width": 1104
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1664,
+                "label": "9: 16",
+                "value": -2,
+                "width": 928
+              },
+              {
+                "height": 1472,
+                "label": "3: 4",
+                "value": -1,
+                "width": 1104
+              },
+              {
+                "height": 1328,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1328
+              },
+              {
+                "height": 1104,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1472
+              },
+              {
+                "height": 928,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1664
+              }
+            ],
+            "label": "Qwen-Image",
+            "maxPicSize": 1664,
+            "modelUrl": "modelscope://Qwen/Qwen-Image-Edit-2511?revision=master",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "",
+              "Name": "Qwen-Image-Edit-2511",
+              "path": "Qwen/Qwen-Image-Edit-2511",
+              "type": "model"
+            },
+            "sub_label": "Qwen-Image-Edit-2511",
+            "sub_value": "QWEN_IMAGE_EDIT_2511",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": false,
+            "value": "QWEN_IMAGE_20_B",
+            "versionId": 507464
+          },
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 4,
+                "height": 1472,
+                "width": 1104
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1664,
+                "label": "9: 16",
+                "value": -2,
+                "width": 928
+              },
+              {
+                "height": 1472,
+                "label": "3: 4",
+                "value": -1,
+                "width": 1104
+              },
+              {
+                "height": 1328,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1328
+              },
+              {
+                "height": 1104,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1472
+              },
+              {
+                "height": 928,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1664
+              }
+            ],
+            "label": "Qwen-Image",
+            "maxPicSize": 1664,
+            "modelUrl": "modelscope://FireRedTeam/FireRed-Image-Edit-1.1?revision=master",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "",
+              "Name": "FireRed-Image-Edit-1.1",
+              "path": "FireRedTeam/FireRed-Image-Edit-1.1",
+              "type": "model"
+            },
+            "sub_label": "FireRed-Image-Edit-1.1",
+            "sub_value": "FIRERED_IMAGE_EDIT",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": true,
+            "value": "QWEN_IMAGE_20_B",
+            "versionId": 80028
+          },
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 4,
+                "height": 1472,
+                "width": 1104
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1664,
+                "label": "9: 16",
+                "value": -2,
+                "width": 928
+              },
+              {
+                "height": 1472,
+                "label": "3: 4",
+                "value": -1,
+                "width": 1104
+              },
+              {
+                "height": 1328,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1328
+              },
+              {
+                "height": 1104,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1472
+              },
+              {
+                "height": 928,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1664
+              }
+            ],
+            "label": "Qwen-Image",
+            "maxPicSize": 1664,
+            "modelUrl": "modelscope://Qwen/Qwen-Image-Edit-2509?revision=master",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "",
+              "Name": "Qwen-Image-Edit-2509",
+              "path": "Qwen/Qwen-Image-Edit-2509",
+              "type": "model"
+            },
+            "sub_label": "Qwen-Image-Edit-2509",
+            "sub_value": "QWEN_IMAGE_EDIT_2509",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": true,
+            "value": "QWEN_IMAGE_20_B",
+            "versionId": 382481
+          },
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 4,
+                "height": 1472,
+                "width": 1104
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1664,
+                "label": "9: 16",
+                "value": -2,
+                "width": 928
+              },
+              {
+                "height": 1472,
+                "label": "3: 4",
+                "value": -1,
+                "width": 1104
+              },
+              {
+                "height": 1328,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1328
+              },
+              {
+                "height": 1104,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1472
+              },
+              {
+                "height": 928,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1664
+              }
+            ],
+            "label": "Qwen-Image",
+            "maxPicSize": 1664,
+            "modelUrl": "modelscope://Qwen/Qwen-Image-2512?revision=master",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "",
+              "Name": "Qwen-Image-2512",
+              "path": "Qwen/Qwen-Image-2512",
+              "type": "model"
+            },
+            "sub_label": "Qwen-Image-2512",
+            "sub_value": "QWEN_IMAGE_2512",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": false,
+            "value": "QWEN_IMAGE_20_B",
+            "versionId": 1363
+          },
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 4,
+                "height": 1472,
+                "width": 1104
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1664,
+                "label": "9: 16",
+                "value": -2,
+                "width": 928
+              },
+              {
+                "height": 1472,
+                "label": "3: 4",
+                "value": -1,
+                "width": 1104
+              },
+              {
+                "height": 1328,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1328
+              },
+              {
+                "height": 1104,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1472
+              },
+              {
+                "height": 928,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1664
+              }
+            ],
+            "label": "Qwen-Image",
+            "maxPicSize": 1664,
+            "modelUrl": "modelscope://MusePublic/Qwen-Image-Edit?revision=v1",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "",
+              "Name": "Qwen-Image-Edit",
+              "path": "Qwen/Qwen-Image-Edit",
+              "type": "model"
+            },
+            "sub_label": "Qwen-Image-Edit",
+            "sub_value": "QWEN_IMAGE_EDIT",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": true,
+            "value": "QWEN_IMAGE_20_B",
+            "versionId": 312623
+          },
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 0,
+                "height": 1024,
+                "numInferenceSteps": 4,
+                "width": 1024
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1664,
+                "label": "9: 16",
+                "value": -2,
+                "width": 928
+              },
+              {
+                "height": 1472,
+                "label": "3: 4",
+                "value": -1,
+                "width": 1104
+              },
+              {
+                "height": 1328,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1328
+              },
+              {
+                "height": 1104,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1472
+              },
+              {
+                "height": 928,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1664
+              }
+            ],
+            "label": "FLUX.2",
+            "maxPicSize": 1664,
+            "modelUrl": "modelscope://black-forest-labs/FLUX.2-klein-base-4B?revision=master",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "",
+              "Name": "FLUX.2-klein-base-4B",
+              "path": "black-forest-labs/FLUX.2-klein-base-4B",
+              "type": "model"
+            },
+            "sub_label": "FLUX.2-klein-base-4B",
+            "sub_value": "FLUX2_KLEIN_BASE_4B",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": true,
+            "value": "FLUX_2",
+            "versionId": 7008
+          },
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 0,
+                "height": 1024,
+                "numInferenceSteps": 4,
+                "width": 1024
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1664,
+                "label": "9: 16",
+                "value": -2,
+                "width": 928
+              },
+              {
+                "height": 1472,
+                "label": "3: 4",
+                "value": -1,
+                "width": 1104
+              },
+              {
+                "height": 1328,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1328
+              },
+              {
+                "height": 1104,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1472
+              },
+              {
+                "height": 928,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1664
+              }
+            ],
+            "label": "FLUX.2",
+            "maxPicSize": 1664,
+            "modelUrl": "modelscope://black-forest-labs/FLUX.2-klein-9B?revision=master",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "",
+              "Name": "FLUX.2-klein-9B",
+              "path": "black-forest-labs/FLUX.2-klein-9B",
+              "type": "model"
+            },
+            "sub_label": "FLUX.2-klein-9B",
+            "sub_value": "FLUX2_KLEIN_9B",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": false,
+            "value": "FLUX_2",
+            "versionId": 7005
+          },
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 0,
+                "height": 1024,
+                "numInferenceSteps": 4,
+                "width": 1024
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1664,
+                "label": "9: 16",
+                "value": -2,
+                "width": 928
+              },
+              {
+                "height": 1472,
+                "label": "3: 4",
+                "value": -1,
+                "width": 1104
+              },
+              {
+                "height": 1328,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1328
+              },
+              {
+                "height": 1104,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1472
+              },
+              {
+                "height": 928,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1664
+              }
+            ],
+            "label": "FLUX.2",
+            "maxPicSize": 1664,
+            "modelUrl": "modelscope://black-forest-labs/FLUX.2-klein-4B?revision=master",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "",
+              "Name": "FLUX.2-klein-4B",
+              "path": "black-forest-labs/FLUX.2-klein-4B",
+              "type": "model"
+            },
+            "sub_label": "FLUX.2-klein-4B",
+            "sub_value": "FLUX2_KLEIN_4B",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": false,
+            "value": "FLUX_2",
+            "versionId": 6989
+          },
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 0,
+                "height": 480,
+                "width": 480
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1664,
+                "label": "9: 16",
+                "value": -2,
+                "width": 928
+              },
+              {
+                "height": 1472,
+                "label": "3: 4",
+                "value": -1,
+                "width": 1104
+              },
+              {
+                "height": 1328,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1328
+              },
+              {
+                "height": 1104,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1472
+              },
+              {
+                "height": 928,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1664
+              }
+            ],
+            "label": "FLUX.2",
+            "maxPicSize": 1664,
+            "modelUrl": "modelscope://black-forest-labs/FLUX.2-klein-base-9B?revision=master",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "",
+              "Name": "FLUX.2-klein-base-9B",
+              "path": "black-forest-labs/FLUX.2-klein-base-9B",
+              "type": "model"
+            },
+            "sub_label": "FLUX.2-klein-base-9B",
+            "sub_value": "FLUX2_KLEIN_BASE_9B",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": true,
+            "value": "FLUX_2",
+            "versionId": 7010
+          },
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 4,
+                "height": 1024,
+                "numInferenceSteps": 30,
+                "width": 1024
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1280,
+                "label": "9: 16",
+                "value": -2,
+                "width": 720
+              },
+              {
+                "height": 1152,
+                "label": "3: 4",
+                "value": -1,
+                "width": 864
+              },
+              {
+                "height": 1024,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1024
+              },
+              {
+                "height": 864,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1152
+              },
+              {
+                "height": 720,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1280
+              }
+            ],
+            "label": "Z-Image",
+            "maxPicSize": 2048,
+            "modelUrl": "modelscope://Tongyi-MAI/Z-Image-Turbo?revision=master",
+            "model_id": {
+              "ChineseName": "造相-Z-Image-Turbo",
+              "Description": "",
+              "Name": "Z-Image-Turbo",
+              "path": "Tongyi-MAI/Z-Image-Turbo",
+              "type": "model"
+            },
+            "sub_label": "Z-Image-Turbo",
+            "sub_value": "Z_IMAGE_TURBO",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "euler"
+              }
+            ],
+            "trainable": true,
+            "value": "Z_IMAGE_TURBO",
+            "versionId": 692
+          },
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 4,
+                "height": 1024,
+                "numInferenceSteps": 30,
+                "width": 1024
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1280,
+                "label": "9: 16",
+                "value": -2,
+                "width": 720
+              },
+              {
+                "height": 1152,
+                "label": "3: 4",
+                "value": -1,
+                "width": 864
+              },
+              {
+                "height": 1024,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1024
+              },
+              {
+                "height": 864,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1152
+              },
+              {
+                "height": 720,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1280
+              }
+            ],
+            "label": "Z-Image",
+            "maxPicSize": 2048,
+            "modelUrl": "modelscope://Tongyi-MAI/Z-Image?revision=master",
+            "model_id": {
+              "ChineseName": "造相-Z-Image",
+              "Description": "",
+              "Name": "Z-Image",
+              "path": "Tongyi-MAI/Z-Image",
+              "type": "model"
+            },
+            "sub_label": "Z-Image",
+            "sub_value": "Z_IMAGE",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "euler"
+              }
+            ],
+            "trainable": true,
+            "value": "Z_IMAGE_TURBO",
+            "versionId": 4044
+          },
+          {
+            "controlnet_disable": false,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 7.5,
+                "height": 1024,
+                "width": 768
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1024,
+                "label": "9: 16",
+                "value": -2,
+                "width": 576
+              },
+              {
+                "height": 1024,
+                "label": "3: 4",
+                "value": -1,
+                "width": 768
+              },
+              {
+                "height": 1024,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1024
+              },
+              {
+                "height": 768,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1024
+              },
+              {
+                "height": 576,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1024
+              }
+            ],
+            "label": "SD1.5",
+            "maxPicSize": 1024,
+            "modelUrl": "modelscope://MusePublic/14_ckpt_SD_1_5?revision=20250917141225",
+            "model_id": {
+              "ChineseName": "stable-diffusion-v1-5",
+              "Description": "",
+              "Name": "stable-diffusion-v1-5",
+              "path": "AI-ModelScope/stable-diffusion-v1-5",
+              "type": "model"
+            },
+            "sub_label": "stable-diffusion-v1-5",
+            "sub_value": "SD_1_5",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": false,
+            "value": "SD_1_5",
+            "versionId": 43
+          },
+          {
+            "controlnet_disable": false,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 7.5,
+                "height": 1024,
+                "width": 768
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1024,
+                "label": "9: 16",
+                "value": -2,
+                "width": 576
+              },
+              {
+                "height": 1024,
+                "label": "3: 4",
+                "value": -1,
+                "width": 768
+              },
+              {
+                "height": 1024,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1024
+              },
+              {
+                "height": 768,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1024
+              },
+              {
+                "height": 576,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1024
+              }
+            ],
+            "label": "SDXL",
+            "maxPicSize": 1440,
+            "modelUrl": "modelscope://MusePublic/42_ckpt_SD_XL?revision=20250917140329",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "Stability is proud to announce the release of SDXL 1.0; the highly-anticipated model in its image-generation series!  This is a model that can be used to generate and modify images based on text prompts. It is a Latent Diffusion Model that uses two fixed, pretrained text encoders (OpenCLIP-ViT/G and CLIP-ViT/L).",
+              "Name": "stable-diffusion-xl-base-1.0",
+              "path": "AI-ModelScope/stable-diffusion-xl-base-1.0",
+              "type": "model"
+            },
+            "sub_label": "stable-diffusion-xl-base-1.0",
+            "sub_value": "SD_XL",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": false,
+            "value": "SD_XL",
+            "versionId": 3
+          },
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 3.5,
+                "height": 1440,
+                "width": 1080
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1920,
+                "label": "9: 16",
+                "value": -2,
+                "width": 1080
+              },
+              {
+                "height": 1440,
+                "label": "3: 4",
+                "value": -1,
+                "width": 1080
+              },
+              {
+                "height": 1440,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1440
+              },
+              {
+                "height": 1080,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1440
+              },
+              {
+                "height": 1080,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1920
+              }
+            ],
+            "label": "SD3",
+            "maxPicSize": 1440,
+            "modelUrl": "modelscope://MusePublic/stable-diffusion-3-medium?revision=v1.0",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "",
+              "Name": "stable-diffusion-3-medium",
+              "path": "AI-ModelScope/stable-diffusion-3-medium",
+              "type": "model"
+            },
+            "sub_label": "stable-diffusion-3-medium",
+            "sub_value": "SD_3",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": false,
+            "value": "SD_3",
+            "versionId": 76
+          },
+          {
+            "controlnet_disable": false,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 3.5,
+                "height": 1440,
+                "width": 1080
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1920,
+                "label": "9: 16",
+                "value": -2,
+                "width": 1080
+              },
+              {
+                "height": 1440,
+                "label": "3: 4",
+                "value": -1,
+                "width": 1080
+              },
+              {
+                "height": 1440,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1440
+              },
+              {
+                "height": 1080,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1440
+              },
+              {
+                "height": 1080,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1920
+              }
+            ],
+            "label": "FLUX.1",
+            "maxPicSize": 1440,
+            "modelUrl": "modelscope://MusePublic/489_ckpt_FLUX_1?revision=v1.0",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "来自Black Forest Labs的12B规格的全新文生图系列模型，能生成高分辨率的高质量图片。本模型为系列中的基础模型。",
+              "Name": "FLUX.1-dev",
+              "path": "AI-ModelScope/FLUX.1-dev",
+              "type": "model"
+            },
+            "sub_label": "FLUX.1-dev",
+            "sub_value": "FLUX1_DEV",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": false,
+            "value": "FLUX_1",
+            "versionId": 80
+          },
+          {
+            "controlnet_disable": false,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 4,
+                "height": 1472,
+                "width": 1104
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1664,
+                "label": "9: 16",
+                "value": -2,
+                "width": 928
+              },
+              {
+                "height": 1472,
+                "label": "3: 4",
+                "value": -1,
+                "width": 1104
+              },
+              {
+                "height": 1328,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1328
+              },
+              {
+                "height": 1104,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1472
+              },
+              {
+                "height": 928,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1664
+              }
+            ],
+            "label": "Qwen-Image",
+            "maxPicSize": 1664,
+            "modelUrl": "modelscope://MusePublic/Qwen-image?revision=v1",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "",
+              "Name": "Qwen-Image",
+              "path": "Qwen/Qwen-Image",
+              "type": "model"
+            },
+            "sub_label": "Qwen-Image",
+            "sub_value": "QWEN_IMAGE_20_B",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": true,
+            "value": "QWEN_IMAGE_20_B",
+            "versionId": 275167
+          },
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 4,
+                "height": 2048,
+                "width": 2048
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 2048,
+                "label": "9: 16",
+                "value": -2,
+                "width": 1152
+              },
+              {
+                "height": 2048,
+                "label": "3: 4",
+                "value": -1,
+                "width": 1536
+              },
+              {
+                "height": 2048,
+                "label": "1: 1",
+                "value": 0,
+                "width": 2048
+              },
+              {
+                "height": 1536,
+                "label": "4: 3",
+                "value": 1,
+                "width": 2048
+              },
+              {
+                "height": 1152,
+                "label": "16: 9",
+                "value": 2,
+                "width": 2048
+              }
+            ],
+            "label": "HiDream-Image",
+            "maxPicSize": 2048,
+            "modelUrl": "modelscope://HiDream-ai/HiDream-O1-Image?revision=master",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "",
+              "Name": "HiDream-O1-Image",
+              "path": "HiDream-ai/HiDream-O1-Image",
+              "type": "model"
+            },
+            "sub_label": "HiDream-O1-Image",
+            "sub_value": "HIDREAM_O1_IMAGE",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "UniPC",
+                "value": "UniPC"
+              }
+            ],
+            "trainable": true,
+            "value": "HIDREAM_O1",
+            "versionId": 111415
+          },
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 1,
+                "height": 1024,
+                "numInferenceSteps": 8,
+                "width": 1024
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1024,
+                "label": "9: 16",
+                "value": -2,
+                "width": 576
+              },
+              {
+                "height": 1024,
+                "label": "3: 4",
+                "value": -1,
+                "width": 768
+              },
+              {
+                "height": 1024,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1024
+              },
+              {
+                "height": 768,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1024
+              },
+              {
+                "height": 576,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1024
+              }
+            ],
+            "label": "Krea-2",
+            "maxPicSize": 2048,
+            "modelUrl": "modelscope://krea-community/Krea-2-Turbo?revision=master",
+            "model_id": {
+              "ChineseName": "Krea-2-Turbo",
+              "Description": "",
+              "Name": "Krea-2-Turbo",
+              "path": "krea-community/Krea-2-Turbo",
+              "type": "model"
+            },
+            "sub_label": "Krea-2-Turbo",
+            "sub_value": "KREA_2_TURBO",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "euler"
+              }
+            ],
+            "trainable": true,
+            "value": "KREA_2",
+            "versionId": 120333
+          },
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 1,
+                "height": 1024,
+                "numInferenceSteps": 8,
+                "width": 1024
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1280,
+                "label": "9: 16",
+                "value": -2,
+                "width": 720
+              },
+              {
+                "height": 1152,
+                "label": "3: 4",
+                "value": -1,
+                "width": 864
+              },
+              {
+                "height": 1024,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1024
+              },
+              {
+                "height": 864,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1152
+              },
+              {
+                "height": 720,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1280
+              }
+            ],
+            "label": "Ideogram-4",
+            "maxPicSize": 1280,
+            "modelUrl": "modelscope://ideogram-ai-community/ideogram-4-fp8?revision=master",
+            "model_id": {
+              "ChineseName": "ideogram-4-fp8",
+              "Description": "",
+              "Name": "ideogram-4-fp8",
+              "path": "ideogram-ai-community/ideogram-4-fp8",
+              "type": "model"
+            },
+            "sub_label": "Ideogram-4-fp8",
+            "sub_value": "IDEOGRAM_4_FP8_IMAGE",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "euler"
+              }
+            ],
+            "trainable": false,
+            "value": "IDEOGRAM_4",
+            "versionId": 124895
+          },
+          {
+            "controlnet_disable": false,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 1,
+                "height": 1472,
+                "numInferenceSteps": 40,
+                "width": 1104
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1664,
+                "label": "9: 16",
+                "value": -2,
+                "width": 928
+              },
+              {
+                "height": 1472,
+                "label": "3: 4",
+                "value": -1,
+                "width": 1104
+              },
+              {
+                "height": 1328,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1328
+              },
+              {
+                "height": 1104,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1472
+              },
+              {
+                "height": 928,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1664
+              }
+            ],
+            "label": "Qwen-Image",
+            "maxPicSize": 1664,
+            "modelUrl": "modelscope://Qwen/Qwen-Image-2.1?revision=master",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "",
+              "Name": "Qwen-Image-2.1",
+              "path": "Qwen/Qwen-Image-2.1",
+              "type": "model"
+            },
+            "sub_label": "Qwen-Image-2.1",
+            "sub_value": "QWEN_IMAGE_2_1",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": true,
+            "value": "QWEN_IMAGE_20_B",
+            "versionId": 174178
+          },
+          {
+            "controlnet_disable": true,
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 1,
+                "height": 1472,
+                "numInferenceSteps": 8,
+                "width": 1104
+              }
+            },
+            "imageSizeSlider": [
+              {
+                "height": 1664,
+                "label": "9: 16",
+                "value": -2,
+                "width": 928
+              },
+              {
+                "height": 1472,
+                "label": "3: 4",
+                "value": -1,
+                "width": 1104
+              },
+              {
+                "height": 1328,
+                "label": "1: 1",
+                "value": 0,
+                "width": 1328
+              },
+              {
+                "height": 1104,
+                "label": "4: 3",
+                "value": 1,
+                "width": 1472
+              },
+              {
+                "height": 928,
+                "label": "16: 9",
+                "value": 2,
+                "width": 1664
+              }
+            ],
+            "label": "Qwen-Image",
+            "maxPicSize": 1664,
+            "modelUrl": "modelscope://Qwen/Qwen-Image-2.1-Turbo?revision=master",
+            "model_id": {
+              "ChineseName": "",
+              "Description": "",
+              "Name": "Qwen-Image-2.1-Turbo",
+              "path": "Qwen/Qwen-Image-2.1-Turbo",
+              "type": "model"
+            },
+            "sub_label": "Qwen-Image-2.1-Turbo",
+            "sub_value": "QWEN_IMAGE_2_1_TURBO",
+            "supportSampler": [
+              {
+                "label": "Euler",
+                "value": "Euler"
+              },
+              {
+                "label": "Euler Beta",
+                "value": "Euler Beta"
+              }
+            ],
+            "trainable": false,
+            "value": "QWEN_IMAGE_20_B",
+            "versionId": 194661
+          }
+        ]
+      },
+      "VIDEO": {
+        "defaultRequest": {
+          "basicDiffusionArgs": {
+            "guidanceScale": 5,
+            "height": 848,
+            "numInferenceSteps": 50,
+            "seed": -1,
+            "totalSeconds": 5,
+            "width": 480
+          },
+          "promptArgs": {
+            "negativePrompt": "Bright tones, overexposed, static, blurry details, subtitles, style, work, painting, picture, still, overall grayish, worst quality, low quality, JPEG compression residue, ugly, incomplete, redundant fingers, poorly drawn hands, poorly drawn faces, deformed, disfigured, deformed limbs, finger fusion, still picture A messy background, three legs, a lot of people in the background, walking backwards",
+            "prompt": ""
+          }
+        },
+        "defaultSdVersion": "WAN_VIDEO_2_2_I2V_A_14_B",
+        "supportSDVersionList": [
+          {
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 7.5,
+                "height": 1280,
+                "numInferenceSteps": 50,
+                "width": 720
+              }
+            },
+            "gen_type": "T2V",
+            "is_video_model": "true",
+            "key": "WAN",
+            "label": "Wan2.1",
+            "modelUrl": "modelscope://Wan-AI/Wan2.1-T2V-1.3B?revision=master",
+            "model_id": {
+              "ChineseName": "通义万相2.1-文生视频-1.3B",
+              "Description": "",
+              "Name": "Wan2.1-T2V-1.3B",
+              "path": "Wan-AI/Wan2.1-T2V-1.3B",
+              "type": "model"
+            },
+            "sub_label": "Wan2.1-T2V-1.3B",
+            "sub_value": "WAN_VIDEO_2_1_T2V_1_3_B",
+            "supportType": [
+              "TXT_2_VIDEO"
+            ],
+            "trainable": false,
+            "value": "WAN_VIDEO_2_1_T2V_1_3_B",
+            "versionId": 546,
+            "videoSizeSlider": {
+              "large": [
+                {
+                  "height": 1280,
+                  "label": "9 : 16",
+                  "pixel": "720*1280",
+                  "type": "vertical",
+                  "value": -2,
+                  "width": 720
+                },
+                {
+                  "height": 960,
+                  "label": "3 : 4",
+                  "pixel": "720*960",
+                  "type": "vertical",
+                  "value": -1,
+                  "width": 720
+                },
+                {
+                  "height": 720,
+                  "label": "1 : 1",
+                  "pixel": "720*720",
+                  "type": "square",
+                  "value": 0,
+                  "width": 720
+                },
+                {
+                  "height": 720,
+                  "label": "4 : 3",
+                  "pixel": "960*720",
+                  "type": "horizontal",
+                  "value": 1,
+                  "width": 960
+                },
+                {
+                  "height": 720,
+                  "label": "16 : 9",
+                  "pixel": "1280*720",
+                  "type": "horizontal",
+                  "value": 2,
+                  "width": 1280
+                }
+              ],
+              "small": [
+                {
+                  "height": 848,
+                  "label": "9 : 16",
+                  "pixel": "480*848",
+                  "type": "vertical",
+                  "value": -2,
+                  "width": 480
+                },
+                {
+                  "height": 640,
+                  "label": "3 : 4",
+                  "pixel": "480*640",
+                  "type": "vertical",
+                  "value": -1,
+                  "width": 480
+                },
+                {
+                  "height": 480,
+                  "label": "1 : 1",
+                  "pixel": "480*480",
+                  "type": "square",
+                  "value": 0,
+                  "width": 480
+                },
+                {
+                  "height": 480,
+                  "label": "4 : 3",
+                  "pixel": "640*480",
+                  "type": "horizontal",
+                  "value": 1,
+                  "width": 640
+                },
+                {
+                  "height": 480,
+                  "label": "16 : 9",
+                  "pixel": "848*480",
+                  "type": "horizontal",
+                  "value": 2,
+                  "width": 848
+                }
+              ]
+            }
+          },
+          {
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 7.5,
+                "height": 1280,
+                "numInferenceSteps": 50,
+                "width": 720
+              }
+            },
+            "gen_type": "T2V",
+            "is_video_model": "true",
+            "key": "WAN14",
+            "label": "Wan2.1",
+            "modelUrl": "modelscope://Wan-AI/Wan2.1-T2V-14B-BF16?revision=master",
+            "model_id": {
+              "ChineseName": "通义万相2.1-文生视频-14B",
+              "Description": "",
+              "Name": "Wan2.1-T2V-14B",
+              "path": "Wan-AI/Wan2.1-T2V-14B",
+              "type": "model"
+            },
+            "sub_label": "Wan2.1-T2V-14B",
+            "sub_value": "WAN_VIDEO_2_1_T2V_14_B",
+            "supportType": [
+              "TXT_2_VIDEO"
+            ],
+            "trainable": false,
+            "value": "WAN_VIDEO_2_1_T2V_14_B",
+            "versionId": 650,
+            "videoSizeSlider": {
+              "large": [
+                {
+                  "height": 1280,
+                  "label": "9 : 16",
+                  "pixel": "720*1280",
+                  "type": "vertical",
+                  "value": -2,
+                  "width": 720
+                },
+                {
+                  "height": 960,
+                  "label": "3 : 4",
+                  "pixel": "720*960",
+                  "type": "vertical",
+                  "value": -1,
+                  "width": 720
+                },
+                {
+                  "height": 720,
+                  "label": "1 : 1",
+                  "pixel": "720*720",
+                  "type": "square",
+                  "value": 0,
+                  "width": 720
+                },
+                {
+                  "height": 720,
+                  "label": "4 : 3",
+                  "pixel": "960*720",
+                  "type": "horizontal",
+                  "value": 1,
+                  "width": 960
+                },
+                {
+                  "height": 720,
+                  "label": "16 : 9",
+                  "pixel": "1280*720",
+                  "type": "horizontal",
+                  "value": 2,
+                  "width": 1280
+                }
+              ],
+              "small": [
+                {
+                  "height": 848,
+                  "label": "9 : 16",
+                  "pixel": "480*848",
+                  "type": "vertical",
+                  "value": -2,
+                  "width": 480
+                },
+                {
+                  "height": 640,
+                  "label": "3 : 4",
+                  "pixel": "480*640",
+                  "type": "vertical",
+                  "value": -1,
+                  "width": 480
+                },
+                {
+                  "height": 480,
+                  "label": "1 : 1",
+                  "pixel": "480*480",
+                  "type": "square",
+                  "value": 0,
+                  "width": 480
+                },
+                {
+                  "height": 480,
+                  "label": "4 : 3",
+                  "pixel": "640*480",
+                  "type": "horizontal",
+                  "value": 1,
+                  "width": 640
+                },
+                {
+                  "height": 480,
+                  "label": "16 : 9",
+                  "pixel": "848*480",
+                  "type": "horizontal",
+                  "value": 2,
+                  "width": 848
+                }
+              ]
+            }
+          },
+          {
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 7.5,
+                "height": 1280,
+                "numInferenceSteps": 50,
+                "width": 720
+              }
+            },
+            "gen_type": "I2V",
+            "is_video_model": "true",
+            "label": "Wan2.1",
+            "modelUrl": "modelscope://Wan-AI/Wan2.1-I2V-14B-720P-BF16?revision=master",
+            "model_id": {
+              "ChineseName": "通义万相2.1-图生视频-14B-720P",
+              "Description": "",
+              "Name": "Wan2.1-I2V-14B-720P",
+              "path": "Wan-AI/Wan2.1-I2V-14B-720P",
+              "type": "model"
+            },
+            "sub_label": "Wan2.1-I2V-14B-720P",
+            "sub_value": "WAN_VIDEO_2_1_I2V_14_B",
+            "supportType": [
+              "IMG_2_VIDEO"
+            ],
+            "trainable": false,
+            "value": "WAN_VIDEO_2_1_I2V_14_B",
+            "versionId": 648,
+            "videoSizeSlider": {
+              "large": [
+                {
+                  "height": 1280,
+                  "label": "9 : 16",
+                  "pixel": "720*1280",
+                  "type": "vertical",
+                  "value": -2,
+                  "width": 720
+                },
+                {
+                  "height": 960,
+                  "label": "3 : 4",
+                  "pixel": "720*960",
+                  "type": "vertical",
+                  "value": -1,
+                  "width": 720
+                },
+                {
+                  "height": 720,
+                  "label": "1 : 1",
+                  "pixel": "720*720",
+                  "type": "square",
+                  "value": 0,
+                  "width": 720
+                },
+                {
+                  "height": 720,
+                  "label": "4 : 3",
+                  "pixel": "960*720",
+                  "type": "horizontal",
+                  "value": 1,
+                  "width": 960
+                },
+                {
+                  "height": 720,
+                  "label": "16 : 9",
+                  "pixel": "1280*720",
+                  "type": "horizontal",
+                  "value": 2,
+                  "width": 1280
+                }
+              ],
+              "small": [
+                {
+                  "height": 848,
+                  "label": "9 : 16",
+                  "pixel": "480*848",
+                  "type": "vertical",
+                  "value": -2,
+                  "width": 480
+                },
+                {
+                  "height": 640,
+                  "label": "3 : 4",
+                  "pixel": "480*640",
+                  "type": "vertical",
+                  "value": -1,
+                  "width": 480
+                },
+                {
+                  "height": 480,
+                  "label": "1 : 1",
+                  "pixel": "480*480",
+                  "type": "square",
+                  "value": 0,
+                  "width": 480
+                },
+                {
+                  "height": 480,
+                  "label": "4 : 3",
+                  "pixel": "640*480",
+                  "type": "horizontal",
+                  "value": 1,
+                  "width": 640
+                },
+                {
+                  "height": 480,
+                  "label": "16 : 9",
+                  "pixel": "848*480",
+                  "type": "horizontal",
+                  "value": 2,
+                  "width": 848
+                }
+              ]
+            }
+          },
+          {
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 7.5,
+                "height": 1280,
+                "numInferenceSteps": 50,
+                "width": 720
+              }
+            },
+            "gen_type": "FLF2V",
+            "is_video_model": "true",
+            "label": "Wan2.1",
+            "modelUrl": "modelscope://Wan-AI/Wan2.1-FLF2V-14B-720P-BF16?revision=master",
+            "model_id": {
+              "ChineseName": "通义万相Wan2.1-首尾帧视频生成-14B-720P",
+              "Description": "",
+              "Name": "Wan2.1-FLF2V-14B-720P",
+              "path": "Wan-AI/Wan2.1-FLF2V-14B-720P",
+              "type": "model"
+            },
+            "sub_label": "Wan2.1-FLF2V-14B-720P",
+            "sub_value": "WAN_VIDEO_2_1_FLF2V_14_B",
+            "supportType": [
+              "FLF_2_VIDEO"
+            ],
+            "trainable": false,
+            "value": "WAN_VIDEO_2_1_FLF2V_14_B",
+            "versionId": 649,
+            "videoSizeSlider": {
+              "large": [
+                {
+                  "height": 1280,
+                  "label": "9 : 16",
+                  "pixel": "720*1280",
+                  "type": "vertical",
+                  "value": -2,
+                  "width": 720
+                },
+                {
+                  "height": 960,
+                  "label": "3 : 4",
+                  "pixel": "720*960",
+                  "type": "vertical",
+                  "value": -1,
+                  "width": 720
+                },
+                {
+                  "height": 720,
+                  "label": "1 : 1",
+                  "pixel": "720*720",
+                  "type": "square",
+                  "value": 0,
+                  "width": 720
+                },
+                {
+                  "height": 720,
+                  "label": "4 : 3",
+                  "pixel": "960*720",
+                  "type": "horizontal",
+                  "value": 1,
+                  "width": 960
+                },
+                {
+                  "height": 720,
+                  "label": "16 : 9",
+                  "pixel": "1280*720",
+                  "type": "horizontal",
+                  "value": 2,
+                  "width": 1280
+                }
+              ],
+              "small": [
+                {
+                  "height": 848,
+                  "label": "9 : 16",
+                  "pixel": "480*848",
+                  "type": "vertical",
+                  "value": -2,
+                  "width": 480
+                },
+                {
+                  "height": 640,
+                  "label": "3 : 4",
+                  "pixel": "480*640",
+                  "type": "vertical",
+                  "value": -1,
+                  "width": 480
+                },
+                {
+                  "height": 480,
+                  "label": "1 : 1",
+                  "pixel": "480*480",
+                  "type": "square",
+                  "value": 0,
+                  "width": 480
+                },
+                {
+                  "height": 480,
+                  "label": "4 : 3",
+                  "pixel": "640*480",
+                  "type": "horizontal",
+                  "value": 1,
+                  "width": 640
+                },
+                {
+                  "height": 480,
+                  "label": "16 : 9",
+                  "pixel": "848*480",
+                  "type": "horizontal",
+                  "value": 2,
+                  "width": 848
+                }
+              ]
+            }
+          },
+          {
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 7.5,
+                "height": 1280,
+                "numInferenceSteps": 50,
+                "width": 720
+              }
+            },
+            "gen_type": "IT2V",
+            "is_video_model": "true",
+            "label": "Wan2.2",
+            "modelUrl": "modelscope://Wan-AI/Wan2.2-TI2V-5B-BF16?revision=master",
+            "model_id": {
+              "ChineseName": "通义万相2.1-VACE-视频生成编辑-14B",
+              "Description": "",
+              "Name": "Wan2.1-VACE-14B",
+              "path": "Wan-AI/Wan2.1-VACE-14B",
+              "type": "model"
+            },
+            "sub_label": "Wan2.2-TI2V-5B",
+            "sub_value": "WAN_VIDEO_2_2_TI2V_5_B",
+            "supportType": [
+              "TXT_2_VIDEO",
+              "IMG_2_VIDEO"
+            ],
+            "trainable": false,
+            "value": "WAN_VIDEO_2_2_TI2V_5_B",
+            "versionId": 626,
+            "videoSizeSlider": {
+              "large": [
+                {
+                  "height": 1280,
+                  "label": "9 : 16",
+                  "pixel": "720*1280",
+                  "type": "vertical",
+                  "value": -2,
+                  "width": 720
+                },
+                {
+                  "height": 960,
+                  "label": "3 : 4",
+                  "pixel": "720*960",
+                  "type": "vertical",
+                  "value": -1,
+                  "width": 720
+                },
+                {
+                  "height": 720,
+                  "label": "1 : 1",
+                  "pixel": "720*720",
+                  "type": "square",
+                  "value": 0,
+                  "width": 720
+                },
+                {
+                  "height": 720,
+                  "label": "4 : 3",
+                  "pixel": "960*720",
+                  "type": "horizontal",
+                  "value": 1,
+                  "width": 960
+                },
+                {
+                  "height": 720,
+                  "label": "16 : 9",
+                  "pixel": "1280*720",
+                  "type": "horizontal",
+                  "value": 2,
+                  "width": 1280
+                }
+              ],
+              "small": [
+                {
+                  "height": 848,
+                  "label": "9 : 16",
+                  "pixel": "480*848",
+                  "type": "vertical",
+                  "value": -2,
+                  "width": 480
+                },
+                {
+                  "height": 640,
+                  "label": "3 : 4",
+                  "pixel": "480*640",
+                  "type": "vertical",
+                  "value": -1,
+                  "width": 480
+                },
+                {
+                  "height": 480,
+                  "label": "1 : 1",
+                  "pixel": "480*480",
+                  "type": "square",
+                  "value": 0,
+                  "width": 480
+                },
+                {
+                  "height": 480,
+                  "label": "4 : 3",
+                  "pixel": "640*480",
+                  "type": "horizontal",
+                  "value": 1,
+                  "width": 640
+                },
+                {
+                  "height": 480,
+                  "label": "16 : 9",
+                  "pixel": "848*480",
+                  "type": "horizontal",
+                  "value": 2,
+                  "width": 848
+                }
+              ]
+            }
+          },
+          {
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 7.5,
+                "height": 1280,
+                "numInferenceSteps": 50,
+                "width": 720
+              }
+            },
+            "gen_type": "T2V",
+            "is_video_model": "true",
+            "label": "Wan2.2",
+            "modelUrl": "modelscope://Wan-AI/Wan2.2-T2V-A14B-BF16?revision=master",
+            "model_id": {
+              "ChineseName": "通义万相2.1-文生视频-14B",
+              "Description": "",
+              "Name": "Wan2.1-T2V-14B",
+              "path": "Wan-AI/Wan2.1-T2V-14B",
+              "type": "model"
+            },
+            "sub_label": "Wan2.2-T2V-A14B",
+            "sub_value": "WAN_VIDEO_2_2_T2V_A_14_B",
+            "supportType": [
+              "TXT_2_VIDEO"
+            ],
+            "trainable": false,
+            "value": "WAN_VIDEO_2_2_T2V_A_14_B",
+            "versionId": 557,
+            "videoSizeSlider": {
+              "large": [
+                {
+                  "height": 1280,
+                  "label": "9 : 16",
+                  "pixel": "720*1280",
+                  "type": "vertical",
+                  "value": -2,
+                  "width": 720
+                },
+                {
+                  "height": 960,
+                  "label": "3 : 4",
+                  "pixel": "720*960",
+                  "type": "vertical",
+                  "value": -1,
+                  "width": 720
+                },
+                {
+                  "height": 720,
+                  "label": "1 : 1",
+                  "pixel": "720*720",
+                  "type": "square",
+                  "value": 0,
+                  "width": 720
+                },
+                {
+                  "height": 720,
+                  "label": "4 : 3",
+                  "pixel": "960*720",
+                  "type": "horizontal",
+                  "value": 1,
+                  "width": 960
+                },
+                {
+                  "height": 720,
+                  "label": "16 : 9",
+                  "pixel": "1280*720",
+                  "type": "horizontal",
+                  "value": 2,
+                  "width": 1280
+                }
+              ],
+              "small": [
+                {
+                  "height": 848,
+                  "label": "9 : 16",
+                  "pixel": "480*848",
+                  "type": "vertical",
+                  "value": -2,
+                  "width": 480
+                },
+                {
+                  "height": 640,
+                  "label": "3 : 4",
+                  "pixel": "480*640",
+                  "type": "vertical",
+                  "value": -1,
+                  "width": 480
+                },
+                {
+                  "height": 480,
+                  "label": "1 : 1",
+                  "pixel": "480*480",
+                  "type": "square",
+                  "value": 0,
+                  "width": 480
+                },
+                {
+                  "height": 480,
+                  "label": "4 : 3",
+                  "pixel": "640*480",
+                  "type": "horizontal",
+                  "value": 1,
+                  "width": 640
+                },
+                {
+                  "height": 480,
+                  "label": "16 : 9",
+                  "pixel": "848*480",
+                  "type": "horizontal",
+                  "value": 2,
+                  "width": 848
+                }
+              ]
+            }
+          },
+          {
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 7.5,
+                "height": 1280,
+                "numInferenceSteps": 50,
+                "width": 720
+              }
+            },
+            "gen_type": "I2V",
+            "is_video_model": "true",
+            "label": "Wan2.2",
+            "modelUrl": "modelscope://Wan-AI/Wan2.2-I2V-A14B-BF16?revision=master",
+            "model_id": {
+              "ChineseName": "通义万相2.1-图生视频-14B-720P",
+              "Description": "",
+              "Name": "Wan2.1-I2V-14B-720P",
+              "path": "Wan-AI/Wan2.1-I2V-14B-720P",
+              "type": "model"
+            },
+            "sub_label": "Wan2.2-I2V-A14B",
+            "sub_value": "WAN_VIDEO_2_2_I2V_A_14_B",
+            "supportType": [
+              "IMG_2_VIDEO"
+            ],
+            "trainable": false,
+            "value": "WAN_VIDEO_2_2_I2V_A_14_B",
+            "versionId": 647,
+            "videoSizeSlider": {
+              "large": [
+                {
+                  "height": 1280,
+                  "label": "9 : 16",
+                  "pixel": "720*1280",
+                  "type": "vertical",
+                  "value": -2,
+                  "width": 720
+                },
+                {
+                  "height": 960,
+                  "label": "3 : 4",
+                  "pixel": "720*960",
+                  "type": "vertical",
+                  "value": -1,
+                  "width": 720
+                },
+                {
+                  "height": 720,
+                  "label": "1 : 1",
+                  "pixel": "720*720",
+                  "type": "square",
+                  "value": 0,
+                  "width": 720
+                },
+                {
+                  "height": 720,
+                  "label": "4 : 3",
+                  "pixel": "960*720",
+                  "type": "horizontal",
+                  "value": 1,
+                  "width": 960
+                },
+                {
+                  "height": 720,
+                  "label": "16 : 9",
+                  "pixel": "1280*720",
+                  "type": "horizontal",
+                  "value": 2,
+                  "width": 1280
+                }
+              ],
+              "small": [
+                {
+                  "height": 848,
+                  "label": "9 : 16",
+                  "pixel": "480*848",
+                  "type": "vertical",
+                  "value": -2,
+                  "width": 480
+                },
+                {
+                  "height": 640,
+                  "label": "3 : 4",
+                  "pixel": "480*640",
+                  "type": "vertical",
+                  "value": -1,
+                  "width": 480
+                },
+                {
+                  "height": 480,
+                  "label": "1 : 1",
+                  "pixel": "480*480",
+                  "type": "square",
+                  "value": 0,
+                  "width": 480
+                },
+                {
+                  "height": 480,
+                  "label": "4 : 3",
+                  "pixel": "640*480",
+                  "type": "horizontal",
+                  "value": 1,
+                  "width": 640
+                },
+                {
+                  "height": 480,
+                  "label": "16 : 9",
+                  "pixel": "848*480",
+                  "type": "horizontal",
+                  "value": 2,
+                  "width": 848
+                }
+              ]
+            }
+          },
+          {
+            "defaultParams": {
+              "basicDiffusionArgs": {
+                "guidanceScale": 4,
+                "height": 768,
+                "numInferenceSteps": 20,
+                "width": 1280
+              }
+            },
+            "gen_type": "I2V",
+            "is_video_model": "true",
+            "label": "MiniMax-H3",
+            "modelUrl": "modelscope://MiniMax/MiniMax-H3?revision=master",
+            "model_id": {
+              "ChineseName": "MiniMax-H3",
+              "Description": "",
+              "Name": "MiniMax-H3",
+              "path": "MiniMax/MiniMax-H3",
+              "type": "model"
+            },
+            "negativePrompt": "",
+            "sub_label": "MiniMax-H3",
+            "sub_value": "MINIMAX_H3",
+            "supportType": [
+              "TXT_2_VIDEO",
+              "IMG_2_VIDEO",
+              "FLF_2_VIDEO"
+            ],
+            "trainable": true,
+            "value": "MINIMAX_H3",
+            "versionId": 150867,
+            "videoSizeSlider": {
+              "large": [
+                {
+                  "height": 1280,
+                  "label": "9 : 16",
+                  "pixel": "768*1280",
+                  "type": "vertical",
+                  "value": -2,
+                  "width": 768
+                },
+                {
+                  "height": 960,
+                  "label": "3 : 4",
+                  "pixel": "768*960",
+                  "type": "vertical",
+                  "value": -1,
+                  "width": 768
+                },
+                {
+                  "height": 768,
+                  "label": "1 : 1",
+                  "pixel": "768*768",
+                  "type": "square",
+                  "value": 0,
+                  "width": 768
+                },
+                {
+                  "height": 768,
+                  "label": "4 : 3",
+                  "pixel": "960*768",
+                  "type": "horizontal",
+                  "value": 1,
+                  "width": 960
+                },
+                {
+                  "height": 768,
+                  "label": "16 : 9",
+                  "pixel": "1280*768",
+                  "type": "horizontal",
+                  "value": 2,
+                  "width": 1280
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "qwenImageEditModelUrlList": [
+        "modelscope://MusePublic/Qwen-Image-Edit?revision=v1",
+        "modelscope://Qwen/Qwen-Image-Edit-2509?revision=master",
+        "modelscope://Qwen/Qwen-Image-Edit-2511?revision=master",
+        "modelscope://FireRedTeam/FireRed-Image-Edit-1.1?revision=master"
+      ]
+    },
+    "message": "Success",
+    "requestId": "cfb17605-fa02-41f8-88ce-dafa45351042",
+    "success": true,
+    "traceback": null
+  },
+  "Message": "success",
+  "RequestId": "51679e20-292b-4594-bbe1-ef243d7321e5",
+  "Success": true
+}

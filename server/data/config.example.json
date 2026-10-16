@@ -1,0 +1,41 @@
+{
+  "_comment": "复制为 config.json 即可生效；也可用 CIVISION_<字段名大写> 环境变量覆盖。",
+
+  "upstream_base": "https://modelscope.ai",
+  "site_mode": "INTERNATIONAL",
+  "accept_language": "zh-CN",
+  "proxy": "",
+  "timeout": 180.0,
+  "connect_timeout": 20.0,
+
+  "pool_size": 3,
+  "cooldown": 90.0,
+  "strict_model": true,
+  "max_attempts": 3,
+  "auto_refill": false,
+
+  "mail_provider": "emailnator",
+  "mail_timeout": 240.0,
+
+  "register_user_prefix": "civ",
+  "register_password_len": 16,
+  "from_site": "MaaS",
+  "captcha_scene_id": "49006ysb",
+  "captcha_prefix_cn": "18o9k0",
+  "captcha_prefix_intl": "183lxic",
+
+  "default_kind": "image",
+  "default_image_model": "z-image-turbo",
+  "default_video_model": "",
+  "poll_interval": 2.0,
+
+  "relay_alias": "",
+  "imap_host": "",
+  "imap_user": "",
+  "imap_pass": "",
+
+  "host": "127.0.0.1",
+  "port": 8787,
+  "log_level": "info",
+  "max_log_rows": 5000
+}

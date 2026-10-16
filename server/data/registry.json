@@ -1,0 +1,2405 @@
+{
+  "image": [
+    {
+      "kind": "image",
+      "sd_version": "QWEN_IMAGE_20_B",
+      "sub_version": "QWEN_IMAGE_EDIT_2511",
+      "label": "Qwen-Image",
+      "sub_label": "Qwen-Image-Edit-2511",
+      "version_id": 507464,
+      "model": "Qwen/Qwen-Image-Edit-2511",
+      "model_url": "modelscope://Qwen/Qwen-Image-Edit-2511?revision=master",
+      "trainable": false,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1664,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 928,
+          "height": 1664,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 1104,
+          "height": 1472,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1328,
+          "height": 1328,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1472,
+          "height": 1104,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1664,
+          "height": 928,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 4,
+          "height": 1472,
+          "width": 1104
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "QWEN_IMAGE_20_B",
+      "sub_version": "FIRERED_IMAGE_EDIT",
+      "label": "Qwen-Image",
+      "sub_label": "FireRed-Image-Edit-1.1",
+      "version_id": 80028,
+      "model": "FireRedTeam/FireRed-Image-Edit-1.1",
+      "model_url": "modelscope://FireRedTeam/FireRed-Image-Edit-1.1?revision=master",
+      "trainable": true,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1664,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 928,
+          "height": 1664,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 1104,
+          "height": 1472,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1328,
+          "height": 1328,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1472,
+          "height": 1104,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1664,
+          "height": 928,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 4,
+          "height": 1472,
+          "width": 1104
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "QWEN_IMAGE_20_B",
+      "sub_version": "QWEN_IMAGE_EDIT_2509",
+      "label": "Qwen-Image",
+      "sub_label": "Qwen-Image-Edit-2509",
+      "version_id": 382481,
+      "model": "Qwen/Qwen-Image-Edit-2509",
+      "model_url": "modelscope://Qwen/Qwen-Image-Edit-2509?revision=master",
+      "trainable": true,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1664,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 928,
+          "height": 1664,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 1104,
+          "height": 1472,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1328,
+          "height": 1328,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1472,
+          "height": 1104,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1664,
+          "height": 928,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 4,
+          "height": 1472,
+          "width": 1104
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "QWEN_IMAGE_20_B",
+      "sub_version": "QWEN_IMAGE_2512",
+      "label": "Qwen-Image",
+      "sub_label": "Qwen-Image-2512",
+      "version_id": 1363,
+      "model": "Qwen/Qwen-Image-2512",
+      "model_url": "modelscope://Qwen/Qwen-Image-2512?revision=master",
+      "trainable": false,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1664,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 928,
+          "height": 1664,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 1104,
+          "height": 1472,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1328,
+          "height": 1328,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1472,
+          "height": 1104,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1664,
+          "height": 928,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 4,
+          "height": 1472,
+          "width": 1104
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "QWEN_IMAGE_20_B",
+      "sub_version": "QWEN_IMAGE_EDIT",
+      "label": "Qwen-Image",
+      "sub_label": "Qwen-Image-Edit",
+      "version_id": 312623,
+      "model": "MusePublic/Qwen-Image-Edit",
+      "model_url": "modelscope://MusePublic/Qwen-Image-Edit?revision=v1",
+      "trainable": true,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1664,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 928,
+          "height": 1664,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 1104,
+          "height": 1472,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1328,
+          "height": 1328,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1472,
+          "height": 1104,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1664,
+          "height": 928,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 4,
+          "height": 1472,
+          "width": 1104
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "FLUX_2",
+      "sub_version": "FLUX2_KLEIN_BASE_4B",
+      "label": "FLUX.2",
+      "sub_label": "FLUX.2-klein-base-4B",
+      "version_id": 7008,
+      "model": "black-forest-labs/FLUX.2-klein-base-4B",
+      "model_url": "modelscope://black-forest-labs/FLUX.2-klein-base-4B?revision=master",
+      "trainable": true,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1664,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 928,
+          "height": 1664,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 1104,
+          "height": 1472,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1328,
+          "height": 1328,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1472,
+          "height": 1104,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1664,
+          "height": 928,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 0,
+          "height": 1024,
+          "numInferenceSteps": 4,
+          "width": 1024
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "FLUX_2",
+      "sub_version": "FLUX2_KLEIN_9B",
+      "label": "FLUX.2",
+      "sub_label": "FLUX.2-klein-9B",
+      "version_id": 7005,
+      "model": "black-forest-labs/FLUX.2-klein-9B",
+      "model_url": "modelscope://black-forest-labs/FLUX.2-klein-9B?revision=master",
+      "trainable": false,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1664,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 928,
+          "height": 1664,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 1104,
+          "height": 1472,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1328,
+          "height": 1328,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1472,
+          "height": 1104,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1664,
+          "height": 928,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 0,
+          "height": 1024,
+          "numInferenceSteps": 4,
+          "width": 1024
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "FLUX_2",
+      "sub_version": "FLUX2_KLEIN_4B",
+      "label": "FLUX.2",
+      "sub_label": "FLUX.2-klein-4B",
+      "version_id": 6989,
+      "model": "black-forest-labs/FLUX.2-klein-4B",
+      "model_url": "modelscope://black-forest-labs/FLUX.2-klein-4B?revision=master",
+      "trainable": false,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1664,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 928,
+          "height": 1664,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 1104,
+          "height": 1472,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1328,
+          "height": 1328,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1472,
+          "height": 1104,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1664,
+          "height": 928,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 0,
+          "height": 1024,
+          "numInferenceSteps": 4,
+          "width": 1024
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "FLUX_2",
+      "sub_version": "FLUX2_KLEIN_BASE_9B",
+      "label": "FLUX.2",
+      "sub_label": "FLUX.2-klein-base-9B",
+      "version_id": 7010,
+      "model": "black-forest-labs/FLUX.2-klein-base-9B",
+      "model_url": "modelscope://black-forest-labs/FLUX.2-klein-base-9B?revision=master",
+      "trainable": true,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1664,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 928,
+          "height": 1664,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 1104,
+          "height": 1472,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1328,
+          "height": 1328,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1472,
+          "height": 1104,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1664,
+          "height": 928,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 0,
+          "height": 480,
+          "width": 480
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "Z_IMAGE_TURBO",
+      "sub_version": "Z_IMAGE_TURBO",
+      "label": "Z-Image",
+      "sub_label": "Z-Image-Turbo",
+      "version_id": 692,
+      "model": "Tongyi-MAI/Z-Image-Turbo",
+      "model_url": "modelscope://Tongyi-MAI/Z-Image-Turbo?revision=master",
+      "trainable": true,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "euler"
+        }
+      ],
+      "max_pic_size": 2048,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 720,
+          "height": 1280,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 864,
+          "height": 1152,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1024,
+          "height": 1024,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1152,
+          "height": 864,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1280,
+          "height": 720,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 4,
+          "height": 1024,
+          "numInferenceSteps": 30,
+          "width": 1024
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "Z_IMAGE_TURBO",
+      "sub_version": "Z_IMAGE",
+      "label": "Z-Image",
+      "sub_label": "Z-Image",
+      "version_id": 4044,
+      "model": "Tongyi-MAI/Z-Image",
+      "model_url": "modelscope://Tongyi-MAI/Z-Image?revision=master",
+      "trainable": true,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "euler"
+        }
+      ],
+      "max_pic_size": 2048,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 720,
+          "height": 1280,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 864,
+          "height": 1152,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1024,
+          "height": 1024,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1152,
+          "height": 864,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1280,
+          "height": 720,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 4,
+          "height": 1024,
+          "numInferenceSteps": 30,
+          "width": 1024
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "SD_1_5",
+      "sub_version": "SD_1_5",
+      "label": "SD1.5",
+      "sub_label": "stable-diffusion-v1-5",
+      "version_id": 43,
+      "model": "MusePublic/14_ckpt_SD_1_5",
+      "model_url": "modelscope://MusePublic/14_ckpt_SD_1_5?revision=20250917141225",
+      "trainable": false,
+      "controlnet_disable": false,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1024,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 576,
+          "height": 1024,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 768,
+          "height": 1024,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1024,
+          "height": 1024,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1024,
+          "height": 768,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1024,
+          "height": 576,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 7.5,
+          "height": 1024,
+          "width": 768
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "SD_XL",
+      "sub_version": "SD_XL",
+      "label": "SDXL",
+      "sub_label": "stable-diffusion-xl-base-1.0",
+      "version_id": 3,
+      "model": "MusePublic/42_ckpt_SD_XL",
+      "model_url": "modelscope://MusePublic/42_ckpt_SD_XL?revision=20250917140329",
+      "trainable": false,
+      "controlnet_disable": false,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1440,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 576,
+          "height": 1024,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 768,
+          "height": 1024,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1024,
+          "height": 1024,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1024,
+          "height": 768,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1024,
+          "height": 576,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 7.5,
+          "height": 1024,
+          "width": 768
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "SD_3",
+      "sub_version": "SD_3",
+      "label": "SD3",
+      "sub_label": "stable-diffusion-3-medium",
+      "version_id": 76,
+      "model": "MusePublic/stable-diffusion-3-medium",
+      "model_url": "modelscope://MusePublic/stable-diffusion-3-medium?revision=v1.0",
+      "trainable": false,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1440,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 1080,
+          "height": 1920,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 1080,
+          "height": 1440,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1440,
+          "height": 1440,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1440,
+          "height": 1080,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1920,
+          "height": 1080,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 3.5,
+          "height": 1440,
+          "width": 1080
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "FLUX_1",
+      "sub_version": "FLUX1_DEV",
+      "label": "FLUX.1",
+      "sub_label": "FLUX.1-dev",
+      "version_id": 80,
+      "model": "MusePublic/489_ckpt_FLUX_1",
+      "model_url": "modelscope://MusePublic/489_ckpt_FLUX_1?revision=v1.0",
+      "trainable": false,
+      "controlnet_disable": false,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1440,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 1080,
+          "height": 1920,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 1080,
+          "height": 1440,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1440,
+          "height": 1440,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1440,
+          "height": 1080,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1920,
+          "height": 1080,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 3.5,
+          "height": 1440,
+          "width": 1080
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "QWEN_IMAGE_20_B",
+      "sub_version": "QWEN_IMAGE_20_B",
+      "label": "Qwen-Image",
+      "sub_label": "Qwen-Image",
+      "version_id": 275167,
+      "model": "MusePublic/Qwen-image",
+      "model_url": "modelscope://MusePublic/Qwen-image?revision=v1",
+      "trainable": true,
+      "controlnet_disable": false,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1664,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 928,
+          "height": 1664,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 1104,
+          "height": 1472,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1328,
+          "height": 1328,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1472,
+          "height": 1104,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1664,
+          "height": 928,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 4,
+          "height": 1472,
+          "width": 1104
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "HIDREAM_O1",
+      "sub_version": "HIDREAM_O1_IMAGE",
+      "label": "HiDream-Image",
+      "sub_label": "HiDream-O1-Image",
+      "version_id": 111415,
+      "model": "HiDream-ai/HiDream-O1-Image",
+      "model_url": "modelscope://HiDream-ai/HiDream-O1-Image?revision=master",
+      "trainable": true,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "UniPC",
+          "value": "UniPC"
+        }
+      ],
+      "max_pic_size": 2048,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 1152,
+          "height": 2048,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 1536,
+          "height": 2048,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 2048,
+          "height": 2048,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 2048,
+          "height": 1536,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 2048,
+          "height": 1152,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 4,
+          "height": 2048,
+          "width": 2048
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "KREA_2",
+      "sub_version": "KREA_2_TURBO",
+      "label": "Krea-2",
+      "sub_label": "Krea-2-Turbo",
+      "version_id": 120333,
+      "model": "krea-community/Krea-2-Turbo",
+      "model_url": "modelscope://krea-community/Krea-2-Turbo?revision=master",
+      "trainable": true,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "euler"
+        }
+      ],
+      "max_pic_size": 2048,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 576,
+          "height": 1024,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 768,
+          "height": 1024,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1024,
+          "height": 1024,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1024,
+          "height": 768,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1024,
+          "height": 576,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 1,
+          "height": 1024,
+          "numInferenceSteps": 8,
+          "width": 1024
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "IDEOGRAM_4",
+      "sub_version": "IDEOGRAM_4_FP8_IMAGE",
+      "label": "Ideogram-4",
+      "sub_label": "Ideogram-4-fp8",
+      "version_id": 124895,
+      "model": "ideogram-ai-community/ideogram-4-fp8",
+      "model_url": "modelscope://ideogram-ai-community/ideogram-4-fp8?revision=master",
+      "trainable": false,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "euler"
+        }
+      ],
+      "max_pic_size": 1280,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 720,
+          "height": 1280,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 864,
+          "height": 1152,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1024,
+          "height": 1024,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1152,
+          "height": 864,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1280,
+          "height": 720,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 1,
+          "height": 1024,
+          "numInferenceSteps": 8,
+          "width": 1024
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "QWEN_IMAGE_20_B",
+      "sub_version": "QWEN_IMAGE_2_1",
+      "label": "Qwen-Image",
+      "sub_label": "Qwen-Image-2.1",
+      "version_id": 174178,
+      "model": "Qwen/Qwen-Image-2.1",
+      "model_url": "modelscope://Qwen/Qwen-Image-2.1?revision=master",
+      "trainable": true,
+      "controlnet_disable": false,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1664,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 928,
+          "height": 1664,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 1104,
+          "height": 1472,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1328,
+          "height": 1328,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1472,
+          "height": 1104,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1664,
+          "height": 928,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 1,
+          "height": 1472,
+          "numInferenceSteps": 40,
+          "width": 1104
+        }
+      }
+    },
+    {
+      "kind": "image",
+      "sd_version": "QWEN_IMAGE_20_B",
+      "sub_version": "QWEN_IMAGE_2_1_TURBO",
+      "label": "Qwen-Image",
+      "sub_label": "Qwen-Image-2.1-Turbo",
+      "version_id": 194661,
+      "model": "Qwen/Qwen-Image-2.1-Turbo",
+      "model_url": "modelscope://Qwen/Qwen-Image-2.1-Turbo?revision=master",
+      "trainable": false,
+      "controlnet_disable": true,
+      "support_sampler": [
+        {
+          "label": "Euler",
+          "value": "Euler"
+        },
+        {
+          "label": "Euler Beta",
+          "value": "Euler Beta"
+        }
+      ],
+      "max_pic_size": 1664,
+      "sizes": [
+        {
+          "label": "9:16",
+          "width": 928,
+          "height": 1664,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 1104,
+          "height": 1472,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 1328,
+          "height": 1328,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 1472,
+          "height": 1104,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1664,
+          "height": 928,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 1,
+          "height": 1472,
+          "numInferenceSteps": 8,
+          "width": 1104
+        }
+      }
+    }
+  ],
+  "video": [
+    {
+      "kind": "video",
+      "sd_version": "WAN_VIDEO_2_1_T2V_1_3_B",
+      "sub_version": "WAN_VIDEO_2_1_T2V_1_3_B",
+      "label": "Wan2.1",
+      "sub_label": "Wan2.1-T2V-1.3B",
+      "version_id": 546,
+      "model": "Wan-AI/Wan2.1-T2V-1.3B",
+      "model_url": "modelscope://Wan-AI/Wan2.1-T2V-1.3B?revision=master",
+      "gen_type": "T2V",
+      "support_type": [
+        "TXT_2_VIDEO"
+      ],
+      "key": "WAN",
+      "sizes_large": [
+        {
+          "label": "9:16",
+          "width": 720,
+          "height": 1280,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 720,
+          "height": 960,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 720,
+          "height": 720,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 960,
+          "height": 720,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1280,
+          "height": 720,
+          "value": 2
+        }
+      ],
+      "sizes_small": [
+        {
+          "label": "9:16",
+          "width": 480,
+          "height": 848,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 480,
+          "height": 640,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 480,
+          "height": 480,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 640,
+          "height": 480,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 848,
+          "height": 480,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 7.5,
+          "height": 1280,
+          "numInferenceSteps": 50,
+          "width": 720
+        }
+      }
+    },
+    {
+      "kind": "video",
+      "sd_version": "WAN_VIDEO_2_1_T2V_14_B",
+      "sub_version": "WAN_VIDEO_2_1_T2V_14_B",
+      "label": "Wan2.1",
+      "sub_label": "Wan2.1-T2V-14B",
+      "version_id": 650,
+      "model": "Wan-AI/Wan2.1-T2V-14B-BF16",
+      "model_url": "modelscope://Wan-AI/Wan2.1-T2V-14B-BF16?revision=master",
+      "gen_type": "T2V",
+      "support_type": [
+        "TXT_2_VIDEO"
+      ],
+      "key": "WAN14",
+      "sizes_large": [
+        {
+          "label": "9:16",
+          "width": 720,
+          "height": 1280,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 720,
+          "height": 960,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 720,
+          "height": 720,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 960,
+          "height": 720,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1280,
+          "height": 720,
+          "value": 2
+        }
+      ],
+      "sizes_small": [
+        {
+          "label": "9:16",
+          "width": 480,
+          "height": 848,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 480,
+          "height": 640,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 480,
+          "height": 480,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 640,
+          "height": 480,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 848,
+          "height": 480,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 7.5,
+          "height": 1280,
+          "numInferenceSteps": 50,
+          "width": 720
+        }
+      }
+    },
+    {
+      "kind": "video",
+      "sd_version": "WAN_VIDEO_2_1_I2V_14_B",
+      "sub_version": "WAN_VIDEO_2_1_I2V_14_B",
+      "label": "Wan2.1",
+      "sub_label": "Wan2.1-I2V-14B-720P",
+      "version_id": 648,
+      "model": "Wan-AI/Wan2.1-I2V-14B-720P-BF16",
+      "model_url": "modelscope://Wan-AI/Wan2.1-I2V-14B-720P-BF16?revision=master",
+      "gen_type": "I2V",
+      "support_type": [
+        "IMG_2_VIDEO"
+      ],
+      "key": null,
+      "sizes_large": [
+        {
+          "label": "9:16",
+          "width": 720,
+          "height": 1280,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 720,
+          "height": 960,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 720,
+          "height": 720,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 960,
+          "height": 720,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1280,
+          "height": 720,
+          "value": 2
+        }
+      ],
+      "sizes_small": [
+        {
+          "label": "9:16",
+          "width": 480,
+          "height": 848,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 480,
+          "height": 640,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 480,
+          "height": 480,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 640,
+          "height": 480,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 848,
+          "height": 480,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 7.5,
+          "height": 1280,
+          "numInferenceSteps": 50,
+          "width": 720
+        }
+      }
+    },
+    {
+      "kind": "video",
+      "sd_version": "WAN_VIDEO_2_1_FLF2V_14_B",
+      "sub_version": "WAN_VIDEO_2_1_FLF2V_14_B",
+      "label": "Wan2.1",
+      "sub_label": "Wan2.1-FLF2V-14B-720P",
+      "version_id": 649,
+      "model": "Wan-AI/Wan2.1-FLF2V-14B-720P-BF16",
+      "model_url": "modelscope://Wan-AI/Wan2.1-FLF2V-14B-720P-BF16?revision=master",
+      "gen_type": "FLF2V",
+      "support_type": [
+        "FLF_2_VIDEO"
+      ],
+      "key": null,
+      "sizes_large": [
+        {
+          "label": "9:16",
+          "width": 720,
+          "height": 1280,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 720,
+          "height": 960,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 720,
+          "height": 720,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 960,
+          "height": 720,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1280,
+          "height": 720,
+          "value": 2
+        }
+      ],
+      "sizes_small": [
+        {
+          "label": "9:16",
+          "width": 480,
+          "height": 848,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 480,
+          "height": 640,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 480,
+          "height": 480,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 640,
+          "height": 480,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 848,
+          "height": 480,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 7.5,
+          "height": 1280,
+          "numInferenceSteps": 50,
+          "width": 720
+        }
+      }
+    },
+    {
+      "kind": "video",
+      "sd_version": "WAN_VIDEO_2_2_TI2V_5_B",
+      "sub_version": "WAN_VIDEO_2_2_TI2V_5_B",
+      "label": "Wan2.2",
+      "sub_label": "Wan2.2-TI2V-5B",
+      "version_id": 626,
+      "model": "Wan-AI/Wan2.2-TI2V-5B-BF16",
+      "model_url": "modelscope://Wan-AI/Wan2.2-TI2V-5B-BF16?revision=master",
+      "gen_type": "IT2V",
+      "support_type": [
+        "TXT_2_VIDEO",
+        "IMG_2_VIDEO"
+      ],
+      "key": null,
+      "sizes_large": [
+        {
+          "label": "9:16",
+          "width": 720,
+          "height": 1280,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 720,
+          "height": 960,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 720,
+          "height": 720,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 960,
+          "height": 720,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1280,
+          "height": 720,
+          "value": 2
+        }
+      ],
+      "sizes_small": [
+        {
+          "label": "9:16",
+          "width": 480,
+          "height": 848,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 480,
+          "height": 640,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 480,
+          "height": 480,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 640,
+          "height": 480,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 848,
+          "height": 480,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 7.5,
+          "height": 1280,
+          "numInferenceSteps": 50,
+          "width": 720
+        }
+      }
+    },
+    {
+      "kind": "video",
+      "sd_version": "WAN_VIDEO_2_2_T2V_A_14_B",
+      "sub_version": "WAN_VIDEO_2_2_T2V_A_14_B",
+      "label": "Wan2.2",
+      "sub_label": "Wan2.2-T2V-A14B",
+      "version_id": 557,
+      "model": "Wan-AI/Wan2.2-T2V-A14B-BF16",
+      "model_url": "modelscope://Wan-AI/Wan2.2-T2V-A14B-BF16?revision=master",
+      "gen_type": "T2V",
+      "support_type": [
+        "TXT_2_VIDEO"
+      ],
+      "key": null,
+      "sizes_large": [
+        {
+          "label": "9:16",
+          "width": 720,
+          "height": 1280,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 720,
+          "height": 960,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 720,
+          "height": 720,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 960,
+          "height": 720,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1280,
+          "height": 720,
+          "value": 2
+        }
+      ],
+      "sizes_small": [
+        {
+          "label": "9:16",
+          "width": 480,
+          "height": 848,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 480,
+          "height": 640,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 480,
+          "height": 480,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 640,
+          "height": 480,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 848,
+          "height": 480,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 7.5,
+          "height": 1280,
+          "numInferenceSteps": 50,
+          "width": 720
+        }
+      }
+    },
+    {
+      "kind": "video",
+      "sd_version": "WAN_VIDEO_2_2_I2V_A_14_B",
+      "sub_version": "WAN_VIDEO_2_2_I2V_A_14_B",
+      "label": "Wan2.2",
+      "sub_label": "Wan2.2-I2V-A14B",
+      "version_id": 647,
+      "model": "Wan-AI/Wan2.2-I2V-A14B-BF16",
+      "model_url": "modelscope://Wan-AI/Wan2.2-I2V-A14B-BF16?revision=master",
+      "gen_type": "I2V",
+      "support_type": [
+        "IMG_2_VIDEO"
+      ],
+      "key": null,
+      "sizes_large": [
+        {
+          "label": "9:16",
+          "width": 720,
+          "height": 1280,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 720,
+          "height": 960,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 720,
+          "height": 720,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 960,
+          "height": 720,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1280,
+          "height": 720,
+          "value": 2
+        }
+      ],
+      "sizes_small": [
+        {
+          "label": "9:16",
+          "width": 480,
+          "height": 848,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 480,
+          "height": 640,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 480,
+          "height": 480,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 640,
+          "height": 480,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 848,
+          "height": 480,
+          "value": 2
+        }
+      ],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 7.5,
+          "height": 1280,
+          "numInferenceSteps": 50,
+          "width": 720
+        }
+      }
+    },
+    {
+      "kind": "video",
+      "sd_version": "MINIMAX_H3",
+      "sub_version": "MINIMAX_H3",
+      "label": "MiniMax-H3",
+      "sub_label": "MiniMax-H3",
+      "version_id": 150867,
+      "model": "MiniMax/MiniMax-H3",
+      "model_url": "modelscope://MiniMax/MiniMax-H3?revision=master",
+      "gen_type": "I2V",
+      "support_type": [
+        "TXT_2_VIDEO",
+        "IMG_2_VIDEO",
+        "FLF_2_VIDEO"
+      ],
+      "key": null,
+      "sizes_large": [
+        {
+          "label": "9:16",
+          "width": 768,
+          "height": 1280,
+          "value": -2
+        },
+        {
+          "label": "3:4",
+          "width": 768,
+          "height": 960,
+          "value": -1
+        },
+        {
+          "label": "1:1",
+          "width": 768,
+          "height": 768,
+          "value": 0
+        },
+        {
+          "label": "4:3",
+          "width": 960,
+          "height": 768,
+          "value": 1
+        },
+        {
+          "label": "16:9",
+          "width": 1280,
+          "height": 768,
+          "value": 2
+        }
+      ],
+      "sizes_small": [],
+      "default_params": {
+        "basicDiffusionArgs": {
+          "guidanceScale": 4,
+          "height": 768,
+          "numInferenceSteps": 20,
+          "width": 1280
+        }
+      }
+    }
+  ],
+  "audio": [
+    {
+      "kind": "audio",
+      "sd_version": "ACESTEP_XL",
+      "sub_version": "ACESTEP_XL_SFT",
+      "label": "Ace-Step",
+      "version_id": 141218,
+      "model": "ACE-Step/acestep-v15-xl-sft",
+      "default_params": {
+        "basicDiffusionArgs": {
+          "audioCount": 1,
+          "bpm": 128,
+          "cfgScale": 4,
+          "duration": 160,
+          "keyScale": "N/A",
+          "numInferenceSteps": 50,
+          "sampleRate": 48000,
+          "seed": -1,
+          "timeSignature": "N/A",
+          "vocalLanguage": "unknown"
+        }
+      },
+      "limits": {
+        "audioCount": {
+          "max": 4,
+          "min": 1
+        },
+        "bpm": {
+          "max": 300,
+          "min": 30
+        },
+        "cfgScale": {
+          "max": 10,
+          "min": 1
+        },
+        "duration": {
+          "max": 600,
+          "min": 1
+        },
+        "lyricsMaxLength": 4000,
+        "numInferenceSteps": {
+          "max": 100,
+          "min": 32
+        },
+        "promptMaxLength": 4000,
+        "seed": {
+          "max": 2147483647,
+          "min": -1
+        }
+      },
+      "allowed": {
+        "keyScales": [
+          "C major",
+          "C# major",
+          "D major",
+          "D# major",
+          "E major",
+          "F major",
+          "F# major",
+          "G major",
+          "G# major",
+          "A major",
+          "A# major",
+          "B major",
+          "C minor",
+          "C# minor",
+          "D minor",
+          "D# minor",
+          "E minor",
+          "F minor",
+          "F# minor",
+          "G minor",
+          "G# minor",
+          "A minor",
+          "A# minor",
+          "B minor",
+          "N/A"
+        ],
+        "sampleRates": [
+          44100,
+          48000
+        ],
+        "timeSignatures": [
+          "2",
+          "3",
+          "4",
+          "6",
+          "N/A"
+        ],
+        "vocalLanguages": [
+          "ar",
+          "az",
+          "bg",
+          "bn",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hi",
+          "hr",
+          "ht",
+          "hu",
+          "id",
+          "is",
+          "it",
+          "ja",
+          "ko",
+          "la",
+          "lt",
+          "ms",
+          "ne",
+          "nl",
+          "no",
+          "pa",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sa",
+          "sk",
+          "sr",
+          "sv",
+          "sw",
+          "ta",
+          "te",
+          "th",
+          "tl",
+          "tr",
+          "uk",
+          "ur",
+          "vi",
+          "yue",
+          "zh",
+          "unknown"
+        ]
+      }
+    },
+    {
+      "kind": "audio",
+      "sd_version": "ACESTEP_XL",
+      "sub_version": "ACESTEP_XL_TURBO",
+      "label": "Ace-Step",
+      "version_id": 141217,
+      "model": "ACE-Step/acestep-v15-xl-turbo",
+      "default_params": {
+        "basicDiffusionArgs": {
+          "audioCount": 1,
+          "bpm": 128,
+          "cfgScale": 1,
+          "duration": 160,
+          "keyScale": "N/A",
+          "numInferenceSteps": 8,
+          "sampleRate": 48000,
+          "seed": -1,
+          "timeSignature": "N/A",
+          "vocalLanguage": "unknown"
+        }
+      },
+      "limits": {
+        "audioCount": {
+          "max": 4,
+          "min": 1
+        },
+        "bpm": {
+          "max": 300,
+          "min": 30
+        },
+        "cfgScale": {
+          "max": 10,
+          "min": 1
+        },
+        "duration": {
+          "max": 600,
+          "min": 1
+        },
+        "lyricsMaxLength": 4000,
+        "numInferenceSteps": {
+          "max": 100,
+          "min": 1
+        },
+        "promptMaxLength": 4000,
+        "seed": {
+          "max": 2147483647,
+          "min": -1
+        }
+      },
+      "allowed": {
+        "keyScales": [
+          "C major",
+          "C# major",
+          "D major",
+          "D# major",
+          "E major",
+          "F major",
+          "F# major",
+          "G major",
+          "G# major",
+          "A major",
+          "A# major",
+          "B major",
+          "C minor",
+          "C# minor",
+          "D minor",
+          "D# minor",
+          "E minor",
+          "F minor",
+          "F# minor",
+          "G minor",
+          "G# minor",
+          "A minor",
+          "A# minor",
+          "B minor",
+          "N/A"
+        ],
+        "sampleRates": [
+          44100,
+          48000
+        ],
+        "timeSignatures": [
+          "2",
+          "3",
+          "4",
+          "6",
+          "N/A"
+        ],
+        "vocalLanguages": [
+          "ar",
+          "az",
+          "bg",
+          "bn",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hi",
+          "hr",
+          "ht",
+          "hu",
+          "id",
+          "is",
+          "it",
+          "ja",
+          "ko",
+          "la",
+          "lt",
+          "ms",
+          "ne",
+          "nl",
+          "no",
+          "pa",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sa",
+          "sk",
+          "sr",
+          "sv",
+          "sw",
+          "ta",
+          "te",
+          "th",
+          "tl",
+          "tr",
+          "uk",
+          "ur",
+          "vi",
+          "yue",
+          "zh",
+          "unknown"
+        ]
+      }
+    },
+    {
+      "kind": "audio",
+      "sd_version": "MINIMAX_MUSIC3",
+      "sub_version": "MINIMAX_MUSIC3",
+      "label": "MiniMax-Music3",
+      "version_id": 166195,
+      "model": "MiniMax/MiniMax-Music3",
+      "default_params": {
+        "basicDiffusionArgs": {
+          "audioCount": 1,
+          "cfgScale": 1.7,
+          "numInferenceSteps": 40,
+          "sampleRate": 48000,
+          "seed": -1
+        }
+      },
+      "limits": {
+        "audioCount": {
+          "max": 4,
+          "min": 1
+        },
+        "cfgScale": {
+          "max": 10,
+          "min": 1
+        },
+        "lyricsMaxLength": 4000,
+        "numInferenceSteps": {
+          "max": 50,
+          "min": 30
+        },
+        "promptMaxLength": 4000,
+        "seed": {
+          "max": 2147483647,
+          "min": -1
+        }
+      },
+      "allowed": {
+        "sampleRates": [
+          44100,
+          48000
+        ],
+        "vocalLanguages": [
+          "ar",
+          "az",
+          "bg",
+          "bn",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hi",
+          "hr",
+          "ht",
+          "hu",
+          "id",
+          "is",
+          "it",
+          "ja",
+          "ko",
+          "la",
+          "lt",
+          "ms",
+          "ne",
+          "nl",
+          "no",
+          "pa",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sa",
+          "sk",
+          "sr",
+          "sv",
+          "sw",
+          "ta",
+          "te",
+          "th",
+          "tl",
+          "tr",
+          "uk",
+          "ur",
+          "vi",
+          "yue",
+          "zh",
+          "unknown"
+        ]
+      }
+    }
+  ],
+  "defaults": {
+    "image": "Z_IMAGE",
+    "video": "WAN_VIDEO_2_2_I2V_A_14_B",
+    "image_request": {
+      "adetailerArgs": {
+        "adDenoisingStrength": 0.4,
+        "adModel": "face_yolov8n.pt"
+      },
+      "basicDiffusionArgs": {
+        "guidanceScale": 4,
+        "height": 1472,
+        "numImagesPerPrompt": 1,
+        "numInferenceSteps": 30,
+        "sampler": "Euler",
+        "seed": -1,
+        "width": 1104
+      },
+      "hiresFixFrontArgs": {
+        "modelName": "RealESRGAN_x4plus",
+        "scale": 2
+      },
+      "imageInputFrontArgs": {
+        "strength": 0.7
+      },
+      "promptArgs": {
+        "negativePrompt": "",
+        "prompt": ""
+      }
+    },
+    "video_request": {
+      "basicDiffusionArgs": {
+        "guidanceScale": 5,
+        "height": 848,
+        "numInferenceSteps": 50,
+        "seed": -1,
+        "totalSeconds": 5,
+        "width": 480
+      },
+      "promptArgs": {
+        "negativePrompt": "Bright tones, overexposed, static, blurry details, subtitles, style, work, painting, picture, still, overall grayish, worst quality, low quality, JPEG compression residue, ugly, incomplete, redundant fingers, poorly drawn hands, poorly drawn faces, deformed, disfigured, deformed limbs, finger fusion, still picture A messy background, three legs, a lot of people in the background, walking backwards",
+        "prompt": ""
+      }
+    }
+  },
+  "qwen_image_edit": [
+    "modelscope://MusePublic/Qwen-Image-Edit?revision=v1",
+    "modelscope://Qwen/Qwen-Image-Edit-2509?revision=master",
+    "modelscope://Qwen/Qwen-Image-Edit-2511?revision=master",
+    "modelscope://FireRedTeam/FireRed-Image-Edit-1.1?revision=master"
+  ],
+  "flux_highres": null,
+  "flux_kontext": null
+}
